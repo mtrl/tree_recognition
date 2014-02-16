@@ -12,6 +12,7 @@ pygame==1.9.2a0
 pyparsing==2.0.1
 pyproj==1.9.3
 python-dateutil==2.2
+scipy==0.13.3
 six==1.5.2
 stevedore==0.12
 tornado==3.2
