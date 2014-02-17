@@ -1,0 +1,3820 @@
+Template width: 39 Template height: 43
+Index: 0
+X: 887 lower_x_bound: 871.8 upper_x_bound :902.2
+Y: 0 lower_y_bound: -16.8 upper_y_bound :16.8
+--------------
+Template width: 39 Template height: 43
+Index: 1
+X: 888 lower_x_bound: 872.8 upper_x_bound :903.2
+Y: 0 lower_y_bound: -16.8 upper_y_bound :16.8
+--------------
+Template width: 39 Template height: 43
+Index: 2
+X: 1911 lower_x_bound: 1895.8 upper_x_bound :1926.2
+Y: 0 lower_y_bound: -16.8 upper_y_bound :16.8
+--------------
+Template width: 39 Template height: 43
+Index: 3
+X: 1912 lower_x_bound: 1896.8 upper_x_bound :1927.2
+Y: 0 lower_y_bound: -16.8 upper_y_bound :16.8
+--------------
+Template width: 39 Template height: 43
+Index: 4
+X: 1913 lower_x_bound: 1897.8 upper_x_bound :1928.2
+Y: 0 lower_y_bound: -16.8 upper_y_bound :16.8
+--------------
+Template width: 39 Template height: 43
+Index: 5
+X: 1914 lower_x_bound: 1898.8 upper_x_bound :1929.2
+Y: 0 lower_y_bound: -16.8 upper_y_bound :16.8
+--------------
+Template width: 39 Template height: 43
+Index: 6
+X: 1915 lower_x_bound: 1899.8 upper_x_bound :1930.2
+Y: 0 lower_y_bound: -16.8 upper_y_bound :16.8
+--------------
+Template width: 39 Template height: 43
+Index: 7
+X: 1911 lower_x_bound: 1895.8 upper_x_bound :1926.2
+Y: 1 lower_y_bound: -15.8 upper_y_bound :17.8
+--------------
+Template width: 39 Template height: 43
+Index: 8
+X: 1912 lower_x_bound: 1896.8 upper_x_bound :1927.2
+Y: 1 lower_y_bound: -15.8 upper_y_bound :17.8
+--------------
+Template width: 39 Template height: 43
+Index: 9
+X: 1913 lower_x_bound: 1897.8 upper_x_bound :1928.2
+Y: 1 lower_y_bound: -15.8 upper_y_bound :17.8
+--------------
+Template width: 39 Template height: 43
+Index: 10
+X: 1914 lower_x_bound: 1898.8 upper_x_bound :1929.2
+Y: 1 lower_y_bound: -15.8 upper_y_bound :17.8
+--------------
+Template width: 39 Template height: 43
+Index: 11
+X: 1915 lower_x_bound: 1899.8 upper_x_bound :1930.2
+Y: 1 lower_y_bound: -15.8 upper_y_bound :17.8
+--------------
+Template width: 39 Template height: 43
+Index: 12
+X: 1911 lower_x_bound: 1895.8 upper_x_bound :1926.2
+Y: 2 lower_y_bound: -14.8 upper_y_bound :18.8
+--------------
+Template width: 39 Template height: 43
+Index: 13
+X: 1912 lower_x_bound: 1896.8 upper_x_bound :1927.2
+Y: 2 lower_y_bound: -14.8 upper_y_bound :18.8
+--------------
+Template width: 39 Template height: 43
+Index: 14
+X: 1913 lower_x_bound: 1897.8 upper_x_bound :1928.2
+Y: 2 lower_y_bound: -14.8 upper_y_bound :18.8
+--------------
+Template width: 39 Template height: 43
+Index: 15
+X: 1914 lower_x_bound: 1898.8 upper_x_bound :1929.2
+Y: 2 lower_y_bound: -14.8 upper_y_bound :18.8
+--------------
+Template width: 39 Template height: 43
+Index: 16
+X: 1087 lower_x_bound: 1071.8 upper_x_bound :1102.2
+Y: 7 lower_y_bound: -9.8 upper_y_bound :23.8
+--------------
+Template width: 39 Template height: 43
+Index: 17
+X: 1088 lower_x_bound: 1072.8 upper_x_bound :1103.2
+Y: 7 lower_y_bound: -9.8 upper_y_bound :23.8
+--------------
+Template width: 39 Template height: 43
+Index: 18
+X: 1089 lower_x_bound: 1073.8 upper_x_bound :1104.2
+Y: 7 lower_y_bound: -9.8 upper_y_bound :23.8
+--------------
+Template width: 39 Template height: 43
+Index: 19
+X: 1090 lower_x_bound: 1074.8 upper_x_bound :1105.2
+Y: 7 lower_y_bound: -9.8 upper_y_bound :23.8
+--------------
+Template width: 39 Template height: 43
+Index: 20
+X: 1086 lower_x_bound: 1070.8 upper_x_bound :1101.2
+Y: 8 lower_y_bound: -8.8 upper_y_bound :24.8
+--------------
+Template width: 39 Template height: 43
+Index: 21
+X: 1087 lower_x_bound: 1071.8 upper_x_bound :1102.2
+Y: 8 lower_y_bound: -8.8 upper_y_bound :24.8
+--------------
+Template width: 39 Template height: 43
+Index: 22
+X: 1088 lower_x_bound: 1072.8 upper_x_bound :1103.2
+Y: 8 lower_y_bound: -8.8 upper_y_bound :24.8
+--------------
+Template width: 39 Template height: 43
+Index: 23
+X: 1089 lower_x_bound: 1073.8 upper_x_bound :1104.2
+Y: 8 lower_y_bound: -8.8 upper_y_bound :24.8
+--------------
+Template width: 39 Template height: 43
+Index: 24
+X: 1090 lower_x_bound: 1074.8 upper_x_bound :1105.2
+Y: 8 lower_y_bound: -8.8 upper_y_bound :24.8
+--------------
+Template width: 39 Template height: 43
+Index: 25
+X: 1086 lower_x_bound: 1070.8 upper_x_bound :1101.2
+Y: 9 lower_y_bound: -7.8 upper_y_bound :25.8
+--------------
+Template width: 39 Template height: 43
+Index: 26
+X: 1087 lower_x_bound: 1071.8 upper_x_bound :1102.2
+Y: 9 lower_y_bound: -7.8 upper_y_bound :25.8
+--------------
+Template width: 39 Template height: 43
+Index: 27
+X: 1088 lower_x_bound: 1072.8 upper_x_bound :1103.2
+Y: 9 lower_y_bound: -7.8 upper_y_bound :25.8
+--------------
+Template width: 39 Template height: 43
+Index: 28
+X: 1089 lower_x_bound: 1073.8 upper_x_bound :1104.2
+Y: 9 lower_y_bound: -7.8 upper_y_bound :25.8
+--------------
+Template width: 39 Template height: 43
+Index: 29
+X: 1087 lower_x_bound: 1071.8 upper_x_bound :1102.2
+Y: 10 lower_y_bound: -6.8 upper_y_bound :26.8
+--------------
+Template width: 39 Template height: 43
+Index: 30
+X: 1088 lower_x_bound: 1072.8 upper_x_bound :1103.2
+Y: 10 lower_y_bound: -6.8 upper_y_bound :26.8
+--------------
+Template width: 39 Template height: 43
+Index: 31
+X: 1829 lower_x_bound: 1813.8 upper_x_bound :1844.2
+Y: 20 lower_y_bound: 3.2 upper_y_bound :36.8
+--------------
+Template width: 39 Template height: 43
+Index: 32
+X: 1830 lower_x_bound: 1814.8 upper_x_bound :1845.2
+Y: 20 lower_y_bound: 3.2 upper_y_bound :36.8
+--------------
+Template width: 39 Template height: 43
+Index: 33
+X: 1831 lower_x_bound: 1815.8 upper_x_bound :1846.2
+Y: 20 lower_y_bound: 3.2 upper_y_bound :36.8
+--------------
+Template width: 39 Template height: 43
+Index: 34
+X: 1418 lower_x_bound: 1402.8 upper_x_bound :1433.2
+Y: 21 lower_y_bound: 4.2 upper_y_bound :37.8
+--------------
+Template width: 39 Template height: 43
+Index: 35
+X: 1829 lower_x_bound: 1813.8 upper_x_bound :1844.2
+Y: 21 lower_y_bound: 4.2 upper_y_bound :37.8
+--------------
+Template width: 39 Template height: 43
+Index: 36
+X: 1830 lower_x_bound: 1814.8 upper_x_bound :1845.2
+Y: 21 lower_y_bound: 4.2 upper_y_bound :37.8
+--------------
+Template width: 39 Template height: 43
+Index: 37
+X: 1831 lower_x_bound: 1815.8 upper_x_bound :1846.2
+Y: 21 lower_y_bound: 4.2 upper_y_bound :37.8
+--------------
+Template width: 39 Template height: 43
+Index: 38
+X: 1832 lower_x_bound: 1816.8 upper_x_bound :1847.2
+Y: 21 lower_y_bound: 4.2 upper_y_bound :37.8
+--------------
+Template width: 39 Template height: 43
+Index: 39
+X: 1416 lower_x_bound: 1400.8 upper_x_bound :1431.2
+Y: 22 lower_y_bound: 5.2 upper_y_bound :38.8
+--------------
+Template width: 39 Template height: 43
+Index: 40
+X: 1417 lower_x_bound: 1401.8 upper_x_bound :1432.2
+Y: 22 lower_y_bound: 5.2 upper_y_bound :38.8
+--------------
+Template width: 39 Template height: 43
+Index: 41
+X: 1418 lower_x_bound: 1402.8 upper_x_bound :1433.2
+Y: 22 lower_y_bound: 5.2 upper_y_bound :38.8
+--------------
+Template width: 39 Template height: 43
+Index: 42
+X: 1419 lower_x_bound: 1403.8 upper_x_bound :1434.2
+Y: 22 lower_y_bound: 5.2 upper_y_bound :38.8
+--------------
+Template width: 39 Template height: 43
+Index: 43
+X: 1829 lower_x_bound: 1813.8 upper_x_bound :1844.2
+Y: 22 lower_y_bound: 5.2 upper_y_bound :38.8
+--------------
+Template width: 39 Template height: 43
+Index: 44
+X: 1830 lower_x_bound: 1814.8 upper_x_bound :1845.2
+Y: 22 lower_y_bound: 5.2 upper_y_bound :38.8
+--------------
+Template width: 39 Template height: 43
+Index: 45
+X: 1831 lower_x_bound: 1815.8 upper_x_bound :1846.2
+Y: 22 lower_y_bound: 5.2 upper_y_bound :38.8
+--------------
+Template width: 39 Template height: 43
+Index: 46
+X: 1832 lower_x_bound: 1816.8 upper_x_bound :1847.2
+Y: 22 lower_y_bound: 5.2 upper_y_bound :38.8
+--------------
+Template width: 39 Template height: 43
+Index: 47
+X: 1416 lower_x_bound: 1400.8 upper_x_bound :1431.2
+Y: 23 lower_y_bound: 6.2 upper_y_bound :39.8
+--------------
+Template width: 39 Template height: 43
+Index: 48
+X: 1417 lower_x_bound: 1401.8 upper_x_bound :1432.2
+Y: 23 lower_y_bound: 6.2 upper_y_bound :39.8
+--------------
+Template width: 39 Template height: 43
+Index: 49
+X: 1418 lower_x_bound: 1402.8 upper_x_bound :1433.2
+Y: 23 lower_y_bound: 6.2 upper_y_bound :39.8
+--------------
+Template width: 39 Template height: 43
+Index: 50
+X: 1419 lower_x_bound: 1403.8 upper_x_bound :1434.2
+Y: 23 lower_y_bound: 6.2 upper_y_bound :39.8
+--------------
+Template width: 39 Template height: 43
+Index: 51
+X: 1829 lower_x_bound: 1813.8 upper_x_bound :1844.2
+Y: 23 lower_y_bound: 6.2 upper_y_bound :39.8
+--------------
+Template width: 39 Template height: 43
+Index: 52
+X: 1830 lower_x_bound: 1814.8 upper_x_bound :1845.2
+Y: 23 lower_y_bound: 6.2 upper_y_bound :39.8
+--------------
+Template width: 39 Template height: 43
+Index: 53
+X: 1831 lower_x_bound: 1815.8 upper_x_bound :1846.2
+Y: 23 lower_y_bound: 6.2 upper_y_bound :39.8
+--------------
+Template width: 39 Template height: 43
+Index: 54
+X: 1832 lower_x_bound: 1816.8 upper_x_bound :1847.2
+Y: 23 lower_y_bound: 6.2 upper_y_bound :39.8
+--------------
+Template width: 39 Template height: 43
+Index: 55
+X: 1417 lower_x_bound: 1401.8 upper_x_bound :1432.2
+Y: 24 lower_y_bound: 7.2 upper_y_bound :40.8
+--------------
+Template width: 39 Template height: 43
+Index: 56
+X: 1830 lower_x_bound: 1814.8 upper_x_bound :1845.2
+Y: 24 lower_y_bound: 7.2 upper_y_bound :40.8
+--------------
+Template width: 39 Template height: 43
+Index: 57
+X: 1831 lower_x_bound: 1815.8 upper_x_bound :1846.2
+Y: 24 lower_y_bound: 7.2 upper_y_bound :40.8
+--------------
+Template width: 39 Template height: 43
+Index: 58
+X: 967 lower_x_bound: 951.8 upper_x_bound :982.2
+Y: 33 lower_y_bound: 16.2 upper_y_bound :49.8
+--------------
+Template width: 39 Template height: 43
+Index: 59
+X: 968 lower_x_bound: 952.8 upper_x_bound :983.2
+Y: 33 lower_y_bound: 16.2 upper_y_bound :49.8
+--------------
+Template width: 39 Template height: 43
+Index: 60
+X: 966 lower_x_bound: 950.8 upper_x_bound :981.2
+Y: 34 lower_y_bound: 17.2 upper_y_bound :50.8
+--------------
+Template width: 39 Template height: 43
+Index: 61
+X: 967 lower_x_bound: 951.8 upper_x_bound :982.2
+Y: 34 lower_y_bound: 17.2 upper_y_bound :50.8
+--------------
+Template width: 39 Template height: 43
+Index: 62
+X: 968 lower_x_bound: 952.8 upper_x_bound :983.2
+Y: 34 lower_y_bound: 17.2 upper_y_bound :50.8
+--------------
+Template width: 39 Template height: 43
+Index: 63
+X: 969 lower_x_bound: 953.8 upper_x_bound :984.2
+Y: 34 lower_y_bound: 17.2 upper_y_bound :50.8
+--------------
+Template width: 39 Template height: 43
+Index: 64
+X: 966 lower_x_bound: 950.8 upper_x_bound :981.2
+Y: 35 lower_y_bound: 18.2 upper_y_bound :51.8
+--------------
+Template width: 39 Template height: 43
+Index: 65
+X: 967 lower_x_bound: 951.8 upper_x_bound :982.2
+Y: 35 lower_y_bound: 18.2 upper_y_bound :51.8
+--------------
+Template width: 39 Template height: 43
+Index: 66
+X: 968 lower_x_bound: 952.8 upper_x_bound :983.2
+Y: 35 lower_y_bound: 18.2 upper_y_bound :51.8
+--------------
+Template width: 39 Template height: 43
+Index: 67
+X: 969 lower_x_bound: 953.8 upper_x_bound :984.2
+Y: 35 lower_y_bound: 18.2 upper_y_bound :51.8
+--------------
+Template width: 39 Template height: 43
+Index: 68
+X: 966 lower_x_bound: 950.8 upper_x_bound :981.2
+Y: 36 lower_y_bound: 19.2 upper_y_bound :52.8
+--------------
+Template width: 39 Template height: 43
+Index: 69
+X: 967 lower_x_bound: 951.8 upper_x_bound :982.2
+Y: 36 lower_y_bound: 19.2 upper_y_bound :52.8
+--------------
+Template width: 39 Template height: 43
+Index: 70
+X: 968 lower_x_bound: 952.8 upper_x_bound :983.2
+Y: 36 lower_y_bound: 19.2 upper_y_bound :52.8
+--------------
+Template width: 39 Template height: 43
+Index: 71
+X: 969 lower_x_bound: 953.8 upper_x_bound :984.2
+Y: 36 lower_y_bound: 19.2 upper_y_bound :52.8
+--------------
+Template width: 39 Template height: 43
+Index: 72
+X: 1005 lower_x_bound: 989.8 upper_x_bound :1020.2
+Y: 47 lower_y_bound: 30.2 upper_y_bound :63.8
+--------------
+Template width: 39 Template height: 43
+Index: 73
+X: 1006 lower_x_bound: 990.8 upper_x_bound :1021.2
+Y: 47 lower_y_bound: 30.2 upper_y_bound :63.8
+--------------
+Template width: 39 Template height: 43
+Index: 74
+X: 1005 lower_x_bound: 989.8 upper_x_bound :1020.2
+Y: 48 lower_y_bound: 31.2 upper_y_bound :64.8
+--------------
+Template width: 39 Template height: 43
+Index: 75
+X: 1006 lower_x_bound: 990.8 upper_x_bound :1021.2
+Y: 48 lower_y_bound: 31.2 upper_y_bound :64.8
+--------------
+Template width: 39 Template height: 43
+Index: 76
+X: 1007 lower_x_bound: 991.8 upper_x_bound :1022.2
+Y: 48 lower_y_bound: 31.2 upper_y_bound :64.8
+--------------
+Template width: 39 Template height: 43
+Index: 77
+X: 1004 lower_x_bound: 988.8 upper_x_bound :1019.2
+Y: 49 lower_y_bound: 32.2 upper_y_bound :65.8
+--------------
+Template width: 39 Template height: 43
+Index: 78
+X: 1005 lower_x_bound: 989.8 upper_x_bound :1020.2
+Y: 49 lower_y_bound: 32.2 upper_y_bound :65.8
+--------------
+Template width: 39 Template height: 43
+Index: 79
+X: 1006 lower_x_bound: 990.8 upper_x_bound :1021.2
+Y: 49 lower_y_bound: 32.2 upper_y_bound :65.8
+--------------
+Template width: 39 Template height: 43
+Index: 80
+X: 1007 lower_x_bound: 991.8 upper_x_bound :1022.2
+Y: 49 lower_y_bound: 32.2 upper_y_bound :65.8
+--------------
+Template width: 39 Template height: 43
+Index: 81
+X: 1004 lower_x_bound: 988.8 upper_x_bound :1019.2
+Y: 50 lower_y_bound: 33.2 upper_y_bound :66.8
+--------------
+Template width: 39 Template height: 43
+Index: 82
+X: 1005 lower_x_bound: 989.8 upper_x_bound :1020.2
+Y: 50 lower_y_bound: 33.2 upper_y_bound :66.8
+--------------
+Template width: 39 Template height: 43
+Index: 83
+X: 1006 lower_x_bound: 990.8 upper_x_bound :1021.2
+Y: 50 lower_y_bound: 33.2 upper_y_bound :66.8
+--------------
+Template width: 39 Template height: 43
+Index: 84
+X: 1007 lower_x_bound: 991.8 upper_x_bound :1022.2
+Y: 50 lower_y_bound: 33.2 upper_y_bound :66.8
+--------------
+Template width: 39 Template height: 43
+Index: 85
+X: 1042 lower_x_bound: 1026.8 upper_x_bound :1057.2
+Y: 50 lower_y_bound: 33.2 upper_y_bound :66.8
+--------------
+Template width: 39 Template height: 43
+Index: 86
+X: 1041 lower_x_bound: 1025.8 upper_x_bound :1056.2
+Y: 51 lower_y_bound: 34.2 upper_y_bound :67.8
+--------------
+Template width: 39 Template height: 43
+Index: 87
+X: 1042 lower_x_bound: 1026.8 upper_x_bound :1057.2
+Y: 51 lower_y_bound: 34.2 upper_y_bound :67.8
+--------------
+Template width: 39 Template height: 43
+Index: 88
+X: 1043 lower_x_bound: 1027.8 upper_x_bound :1058.2
+Y: 51 lower_y_bound: 34.2 upper_y_bound :67.8
+--------------
+Template width: 39 Template height: 43
+Index: 89
+X: 1041 lower_x_bound: 1025.8 upper_x_bound :1056.2
+Y: 52 lower_y_bound: 35.2 upper_y_bound :68.8
+--------------
+Template width: 39 Template height: 43
+Index: 90
+X: 1042 lower_x_bound: 1026.8 upper_x_bound :1057.2
+Y: 52 lower_y_bound: 35.2 upper_y_bound :68.8
+--------------
+Template width: 39 Template height: 43
+Index: 91
+X: 1043 lower_x_bound: 1027.8 upper_x_bound :1058.2
+Y: 52 lower_y_bound: 35.2 upper_y_bound :68.8
+--------------
+Template width: 39 Template height: 43
+Index: 92
+X: 1041 lower_x_bound: 1025.8 upper_x_bound :1056.2
+Y: 53 lower_y_bound: 36.2 upper_y_bound :69.8
+--------------
+Template width: 39 Template height: 43
+Index: 93
+X: 1042 lower_x_bound: 1026.8 upper_x_bound :1057.2
+Y: 53 lower_y_bound: 36.2 upper_y_bound :69.8
+--------------
+Template width: 39 Template height: 43
+Index: 94
+X: 1043 lower_x_bound: 1027.8 upper_x_bound :1058.2
+Y: 53 lower_y_bound: 36.2 upper_y_bound :69.8
+--------------
+Template width: 39 Template height: 43
+Index: 95
+X: 1585 lower_x_bound: 1569.8 upper_x_bound :1600.2
+Y: 85 lower_y_bound: 68.2 upper_y_bound :101.8
+--------------
+Template width: 39 Template height: 43
+Index: 96
+X: 1586 lower_x_bound: 1570.8 upper_x_bound :1601.2
+Y: 85 lower_y_bound: 68.2 upper_y_bound :101.8
+--------------
+Template width: 39 Template height: 43
+Index: 97
+X: 1584 lower_x_bound: 1568.8 upper_x_bound :1599.2
+Y: 86 lower_y_bound: 69.2 upper_y_bound :102.8
+--------------
+Template width: 39 Template height: 43
+Index: 98
+X: 1585 lower_x_bound: 1569.8 upper_x_bound :1600.2
+Y: 86 lower_y_bound: 69.2 upper_y_bound :102.8
+--------------
+Template width: 39 Template height: 43
+Index: 99
+X: 1586 lower_x_bound: 1570.8 upper_x_bound :1601.2
+Y: 86 lower_y_bound: 69.2 upper_y_bound :102.8
+--------------
+Template width: 39 Template height: 43
+Index: 100
+X: 1587 lower_x_bound: 1571.8 upper_x_bound :1602.2
+Y: 86 lower_y_bound: 69.2 upper_y_bound :102.8
+--------------
+Template width: 39 Template height: 43
+Index: 101
+X: 1584 lower_x_bound: 1568.8 upper_x_bound :1599.2
+Y: 87 lower_y_bound: 70.2 upper_y_bound :103.8
+--------------
+Template width: 39 Template height: 43
+Index: 102
+X: 1585 lower_x_bound: 1569.8 upper_x_bound :1600.2
+Y: 87 lower_y_bound: 70.2 upper_y_bound :103.8
+--------------
+Template width: 39 Template height: 43
+Index: 103
+X: 1586 lower_x_bound: 1570.8 upper_x_bound :1601.2
+Y: 87 lower_y_bound: 70.2 upper_y_bound :103.8
+--------------
+Template width: 39 Template height: 43
+Index: 104
+X: 1587 lower_x_bound: 1571.8 upper_x_bound :1602.2
+Y: 87 lower_y_bound: 70.2 upper_y_bound :103.8
+--------------
+Template width: 39 Template height: 43
+Index: 105
+X: 1584 lower_x_bound: 1568.8 upper_x_bound :1599.2
+Y: 88 lower_y_bound: 71.2 upper_y_bound :104.8
+--------------
+Template width: 39 Template height: 43
+Index: 106
+X: 1585 lower_x_bound: 1569.8 upper_x_bound :1600.2
+Y: 88 lower_y_bound: 71.2 upper_y_bound :104.8
+--------------
+Template width: 39 Template height: 43
+Index: 107
+X: 1586 lower_x_bound: 1570.8 upper_x_bound :1601.2
+Y: 88 lower_y_bound: 71.2 upper_y_bound :104.8
+--------------
+Template width: 39 Template height: 43
+Index: 108
+X: 1587 lower_x_bound: 1571.8 upper_x_bound :1602.2
+Y: 88 lower_y_bound: 71.2 upper_y_bound :104.8
+--------------
+Template width: 39 Template height: 43
+Index: 109
+X: 1586 lower_x_bound: 1570.8 upper_x_bound :1601.2
+Y: 89 lower_y_bound: 72.2 upper_y_bound :105.8
+--------------
+Template width: 39 Template height: 43
+Index: 110
+X: 1525 lower_x_bound: 1509.8 upper_x_bound :1540.2
+Y: 96 lower_y_bound: 79.2 upper_y_bound :112.8
+--------------
+Template width: 39 Template height: 43
+Index: 111
+X: 1526 lower_x_bound: 1510.8 upper_x_bound :1541.2
+Y: 96 lower_y_bound: 79.2 upper_y_bound :112.8
+--------------
+Template width: 39 Template height: 43
+Index: 112
+X: 1527 lower_x_bound: 1511.8 upper_x_bound :1542.2
+Y: 96 lower_y_bound: 79.2 upper_y_bound :112.8
+--------------
+Template width: 39 Template height: 43
+Index: 113
+X: 1525 lower_x_bound: 1509.8 upper_x_bound :1540.2
+Y: 97 lower_y_bound: 80.2 upper_y_bound :113.8
+--------------
+Template width: 39 Template height: 43
+Index: 114
+X: 1526 lower_x_bound: 1510.8 upper_x_bound :1541.2
+Y: 97 lower_y_bound: 80.2 upper_y_bound :113.8
+--------------
+Template width: 39 Template height: 43
+Index: 115
+X: 1527 lower_x_bound: 1511.8 upper_x_bound :1542.2
+Y: 97 lower_y_bound: 80.2 upper_y_bound :113.8
+--------------
+Template width: 39 Template height: 43
+Index: 116
+X: 1528 lower_x_bound: 1512.8 upper_x_bound :1543.2
+Y: 97 lower_y_bound: 80.2 upper_y_bound :113.8
+--------------
+Template width: 39 Template height: 43
+Index: 117
+X: 1525 lower_x_bound: 1509.8 upper_x_bound :1540.2
+Y: 98 lower_y_bound: 81.2 upper_y_bound :114.8
+--------------
+Template width: 39 Template height: 43
+Index: 118
+X: 1526 lower_x_bound: 1510.8 upper_x_bound :1541.2
+Y: 98 lower_y_bound: 81.2 upper_y_bound :114.8
+--------------
+Template width: 39 Template height: 43
+Index: 119
+X: 1527 lower_x_bound: 1511.8 upper_x_bound :1542.2
+Y: 98 lower_y_bound: 81.2 upper_y_bound :114.8
+--------------
+Template width: 39 Template height: 43
+Index: 120
+X: 1528 lower_x_bound: 1512.8 upper_x_bound :1543.2
+Y: 98 lower_y_bound: 81.2 upper_y_bound :114.8
+--------------
+Template width: 39 Template height: 43
+Index: 121
+X: 1526 lower_x_bound: 1510.8 upper_x_bound :1541.2
+Y: 99 lower_y_bound: 82.2 upper_y_bound :115.8
+--------------
+Template width: 39 Template height: 43
+Index: 122
+X: 1527 lower_x_bound: 1511.8 upper_x_bound :1542.2
+Y: 99 lower_y_bound: 82.2 upper_y_bound :115.8
+--------------
+Template width: 39 Template height: 43
+Index: 123
+X: 1664 lower_x_bound: 1648.8 upper_x_bound :1679.2
+Y: 101 lower_y_bound: 84.2 upper_y_bound :117.8
+--------------
+Template width: 39 Template height: 43
+Index: 124
+X: 1665 lower_x_bound: 1649.8 upper_x_bound :1680.2
+Y: 101 lower_y_bound: 84.2 upper_y_bound :117.8
+--------------
+Template width: 39 Template height: 43
+Index: 125
+X: 1663 lower_x_bound: 1647.8 upper_x_bound :1678.2
+Y: 102 lower_y_bound: 85.2 upper_y_bound :118.8
+--------------
+Template width: 39 Template height: 43
+Index: 126
+X: 1664 lower_x_bound: 1648.8 upper_x_bound :1679.2
+Y: 102 lower_y_bound: 85.2 upper_y_bound :118.8
+--------------
+Template width: 39 Template height: 43
+Index: 127
+X: 1665 lower_x_bound: 1649.8 upper_x_bound :1680.2
+Y: 102 lower_y_bound: 85.2 upper_y_bound :118.8
+--------------
+Template width: 39 Template height: 43
+Index: 128
+X: 1666 lower_x_bound: 1650.8 upper_x_bound :1681.2
+Y: 102 lower_y_bound: 85.2 upper_y_bound :118.8
+--------------
+Template width: 39 Template height: 43
+Index: 129
+X: 1663 lower_x_bound: 1647.8 upper_x_bound :1678.2
+Y: 103 lower_y_bound: 86.2 upper_y_bound :119.8
+--------------
+Template width: 39 Template height: 43
+Index: 130
+X: 1664 lower_x_bound: 1648.8 upper_x_bound :1679.2
+Y: 103 lower_y_bound: 86.2 upper_y_bound :119.8
+--------------
+Template width: 39 Template height: 43
+Index: 131
+X: 1665 lower_x_bound: 1649.8 upper_x_bound :1680.2
+Y: 103 lower_y_bound: 86.2 upper_y_bound :119.8
+--------------
+Template width: 39 Template height: 43
+Index: 132
+X: 1666 lower_x_bound: 1650.8 upper_x_bound :1681.2
+Y: 103 lower_y_bound: 86.2 upper_y_bound :119.8
+--------------
+Template width: 39 Template height: 43
+Index: 133
+X: 1664 lower_x_bound: 1648.8 upper_x_bound :1679.2
+Y: 104 lower_y_bound: 87.2 upper_y_bound :120.8
+--------------
+Template width: 39 Template height: 43
+Index: 134
+X: 1665 lower_x_bound: 1649.8 upper_x_bound :1680.2
+Y: 104 lower_y_bound: 87.2 upper_y_bound :120.8
+--------------
+Template width: 39 Template height: 43
+Index: 135
+X: 1666 lower_x_bound: 1650.8 upper_x_bound :1681.2
+Y: 104 lower_y_bound: 87.2 upper_y_bound :120.8
+--------------
+Template width: 39 Template height: 43
+Index: 136
+X: 1502 lower_x_bound: 1486.8 upper_x_bound :1517.2
+Y: 150 lower_y_bound: 133.2 upper_y_bound :166.8
+--------------
+Template width: 39 Template height: 43
+Index: 137
+X: 1503 lower_x_bound: 1487.8 upper_x_bound :1518.2
+Y: 150 lower_y_bound: 133.2 upper_y_bound :166.8
+--------------
+Template width: 39 Template height: 43
+Index: 138
+X: 1504 lower_x_bound: 1488.8 upper_x_bound :1519.2
+Y: 150 lower_y_bound: 133.2 upper_y_bound :166.8
+--------------
+Template width: 39 Template height: 43
+Index: 139
+X: 1502 lower_x_bound: 1486.8 upper_x_bound :1517.2
+Y: 151 lower_y_bound: 134.2 upper_y_bound :167.8
+--------------
+Template width: 39 Template height: 43
+Index: 140
+X: 1503 lower_x_bound: 1487.8 upper_x_bound :1518.2
+Y: 151 lower_y_bound: 134.2 upper_y_bound :167.8
+--------------
+Template width: 39 Template height: 43
+Index: 141
+X: 1504 lower_x_bound: 1488.8 upper_x_bound :1519.2
+Y: 151 lower_y_bound: 134.2 upper_y_bound :167.8
+--------------
+Template width: 39 Template height: 43
+Index: 142
+X: 1502 lower_x_bound: 1486.8 upper_x_bound :1517.2
+Y: 152 lower_y_bound: 135.2 upper_y_bound :168.8
+--------------
+Template width: 39 Template height: 43
+Index: 143
+X: 1503 lower_x_bound: 1487.8 upper_x_bound :1518.2
+Y: 152 lower_y_bound: 135.2 upper_y_bound :168.8
+--------------
+Template width: 39 Template height: 43
+Index: 144
+X: 1504 lower_x_bound: 1488.8 upper_x_bound :1519.2
+Y: 152 lower_y_bound: 135.2 upper_y_bound :168.8
+--------------
+Template width: 39 Template height: 43
+Index: 145
+X: 1503 lower_x_bound: 1487.8 upper_x_bound :1518.2
+Y: 153 lower_y_bound: 136.2 upper_y_bound :169.8
+--------------
+Template width: 39 Template height: 43
+Index: 146
+X: 1495 lower_x_bound: 1479.8 upper_x_bound :1510.2
+Y: 221 lower_y_bound: 204.2 upper_y_bound :237.8
+--------------
+Template width: 39 Template height: 43
+Index: 147
+X: 1496 lower_x_bound: 1480.8 upper_x_bound :1511.2
+Y: 221 lower_y_bound: 204.2 upper_y_bound :237.8
+--------------
+Template width: 39 Template height: 43
+Index: 148
+X: 1497 lower_x_bound: 1481.8 upper_x_bound :1512.2
+Y: 221 lower_y_bound: 204.2 upper_y_bound :237.8
+--------------
+Template width: 39 Template height: 43
+Index: 149
+X: 1498 lower_x_bound: 1482.8 upper_x_bound :1513.2
+Y: 221 lower_y_bound: 204.2 upper_y_bound :237.8
+--------------
+Template width: 39 Template height: 43
+Index: 150
+X: 1494 lower_x_bound: 1478.8 upper_x_bound :1509.2
+Y: 222 lower_y_bound: 205.2 upper_y_bound :238.8
+--------------
+Template width: 39 Template height: 43
+Index: 151
+X: 1495 lower_x_bound: 1479.8 upper_x_bound :1510.2
+Y: 222 lower_y_bound: 205.2 upper_y_bound :238.8
+--------------
+Template width: 39 Template height: 43
+Index: 152
+X: 1496 lower_x_bound: 1480.8 upper_x_bound :1511.2
+Y: 222 lower_y_bound: 205.2 upper_y_bound :238.8
+--------------
+Template width: 39 Template height: 43
+Index: 153
+X: 1497 lower_x_bound: 1481.8 upper_x_bound :1512.2
+Y: 222 lower_y_bound: 205.2 upper_y_bound :238.8
+--------------
+Template width: 39 Template height: 43
+Index: 154
+X: 1498 lower_x_bound: 1482.8 upper_x_bound :1513.2
+Y: 222 lower_y_bound: 205.2 upper_y_bound :238.8
+--------------
+Template width: 39 Template height: 43
+Index: 155
+X: 1494 lower_x_bound: 1478.8 upper_x_bound :1509.2
+Y: 223 lower_y_bound: 206.2 upper_y_bound :239.8
+--------------
+Template width: 39 Template height: 43
+Index: 156
+X: 1495 lower_x_bound: 1479.8 upper_x_bound :1510.2
+Y: 223 lower_y_bound: 206.2 upper_y_bound :239.8
+--------------
+Template width: 39 Template height: 43
+Index: 157
+X: 1496 lower_x_bound: 1480.8 upper_x_bound :1511.2
+Y: 223 lower_y_bound: 206.2 upper_y_bound :239.8
+--------------
+Template width: 39 Template height: 43
+Index: 158
+X: 1497 lower_x_bound: 1481.8 upper_x_bound :1512.2
+Y: 223 lower_y_bound: 206.2 upper_y_bound :239.8
+--------------
+Template width: 39 Template height: 43
+Index: 159
+X: 1498 lower_x_bound: 1482.8 upper_x_bound :1513.2
+Y: 223 lower_y_bound: 206.2 upper_y_bound :239.8
+--------------
+Template width: 39 Template height: 43
+Index: 160
+X: 1494 lower_x_bound: 1478.8 upper_x_bound :1509.2
+Y: 224 lower_y_bound: 207.2 upper_y_bound :240.8
+--------------
+Template width: 39 Template height: 43
+Index: 161
+X: 1495 lower_x_bound: 1479.8 upper_x_bound :1510.2
+Y: 224 lower_y_bound: 207.2 upper_y_bound :240.8
+--------------
+Template width: 39 Template height: 43
+Index: 162
+X: 1496 lower_x_bound: 1480.8 upper_x_bound :1511.2
+Y: 224 lower_y_bound: 207.2 upper_y_bound :240.8
+--------------
+Template width: 39 Template height: 43
+Index: 163
+X: 1497 lower_x_bound: 1481.8 upper_x_bound :1512.2
+Y: 224 lower_y_bound: 207.2 upper_y_bound :240.8
+--------------
+Template width: 39 Template height: 43
+Index: 164
+X: 1498 lower_x_bound: 1482.8 upper_x_bound :1513.2
+Y: 224 lower_y_bound: 207.2 upper_y_bound :240.8
+--------------
+Template width: 39 Template height: 43
+Index: 165
+X: 1494 lower_x_bound: 1478.8 upper_x_bound :1509.2
+Y: 225 lower_y_bound: 208.2 upper_y_bound :241.8
+--------------
+Template width: 39 Template height: 43
+Index: 166
+X: 1495 lower_x_bound: 1479.8 upper_x_bound :1510.2
+Y: 225 lower_y_bound: 208.2 upper_y_bound :241.8
+--------------
+Template width: 39 Template height: 43
+Index: 167
+X: 1496 lower_x_bound: 1480.8 upper_x_bound :1511.2
+Y: 225 lower_y_bound: 208.2 upper_y_bound :241.8
+--------------
+Template width: 39 Template height: 43
+Index: 168
+X: 1497 lower_x_bound: 1481.8 upper_x_bound :1512.2
+Y: 225 lower_y_bound: 208.2 upper_y_bound :241.8
+--------------
+Template width: 39 Template height: 43
+Index: 169
+X: 0 lower_x_bound: -15.2 upper_x_bound :15.2
+Y: 283 lower_y_bound: 266.2 upper_y_bound :299.8
+--------------
+Template width: 39 Template height: 43
+Index: 170
+X: 0 lower_x_bound: -15.2 upper_x_bound :15.2
+Y: 284 lower_y_bound: 267.2 upper_y_bound :300.8
+--------------
+Template width: 39 Template height: 43
+Index: 171
+X: 48 lower_x_bound: 32.8 upper_x_bound :63.2
+Y: 284 lower_y_bound: 267.2 upper_y_bound :300.8
+--------------
+Template width: 39 Template height: 43
+Index: 172
+X: 49 lower_x_bound: 33.8 upper_x_bound :64.2
+Y: 284 lower_y_bound: 267.2 upper_y_bound :300.8
+--------------
+Template width: 39 Template height: 43
+Index: 173
+X: 50 lower_x_bound: 34.8 upper_x_bound :65.2
+Y: 284 lower_y_bound: 267.2 upper_y_bound :300.8
+--------------
+Template width: 39 Template height: 43
+Index: 174
+X: 0 lower_x_bound: -15.2 upper_x_bound :15.2
+Y: 285 lower_y_bound: 268.2 upper_y_bound :301.8
+--------------
+Template width: 39 Template height: 43
+Index: 175
+X: 47 lower_x_bound: 31.8 upper_x_bound :62.2
+Y: 285 lower_y_bound: 268.2 upper_y_bound :301.8
+--------------
+Template width: 39 Template height: 43
+Index: 176
+X: 48 lower_x_bound: 32.8 upper_x_bound :63.2
+Y: 285 lower_y_bound: 268.2 upper_y_bound :301.8
+--------------
+Template width: 39 Template height: 43
+Index: 177
+X: 49 lower_x_bound: 33.8 upper_x_bound :64.2
+Y: 285 lower_y_bound: 268.2 upper_y_bound :301.8
+--------------
+Template width: 39 Template height: 43
+Index: 178
+X: 50 lower_x_bound: 34.8 upper_x_bound :65.2
+Y: 285 lower_y_bound: 268.2 upper_y_bound :301.8
+--------------
+Template width: 39 Template height: 43
+Index: 179
+X: 47 lower_x_bound: 31.8 upper_x_bound :62.2
+Y: 286 lower_y_bound: 269.2 upper_y_bound :302.8
+--------------
+Template width: 39 Template height: 43
+Index: 180
+X: 48 lower_x_bound: 32.8 upper_x_bound :63.2
+Y: 286 lower_y_bound: 269.2 upper_y_bound :302.8
+--------------
+Template width: 39 Template height: 43
+Index: 181
+X: 49 lower_x_bound: 33.8 upper_x_bound :64.2
+Y: 286 lower_y_bound: 269.2 upper_y_bound :302.8
+--------------
+Template width: 39 Template height: 43
+Index: 182
+X: 50 lower_x_bound: 34.8 upper_x_bound :65.2
+Y: 286 lower_y_bound: 269.2 upper_y_bound :302.8
+--------------
+Template width: 39 Template height: 43
+Index: 183
+X: 47 lower_x_bound: 31.8 upper_x_bound :62.2
+Y: 287 lower_y_bound: 270.2 upper_y_bound :303.8
+--------------
+Template width: 39 Template height: 43
+Index: 184
+X: 48 lower_x_bound: 32.8 upper_x_bound :63.2
+Y: 287 lower_y_bound: 270.2 upper_y_bound :303.8
+--------------
+Template width: 39 Template height: 43
+Index: 185
+X: 49 lower_x_bound: 33.8 upper_x_bound :64.2
+Y: 287 lower_y_bound: 270.2 upper_y_bound :303.8
+--------------
+Template width: 39 Template height: 43
+Index: 186
+X: 108 lower_x_bound: 92.8 upper_x_bound :123.2
+Y: 303 lower_y_bound: 286.2 upper_y_bound :319.8
+--------------
+Template width: 39 Template height: 43
+Index: 187
+X: 109 lower_x_bound: 93.8 upper_x_bound :124.2
+Y: 303 lower_y_bound: 286.2 upper_y_bound :319.8
+--------------
+Template width: 39 Template height: 43
+Index: 188
+X: 107 lower_x_bound: 91.8 upper_x_bound :122.2
+Y: 304 lower_y_bound: 287.2 upper_y_bound :320.8
+--------------
+Template width: 39 Template height: 43
+Index: 189
+X: 108 lower_x_bound: 92.8 upper_x_bound :123.2
+Y: 304 lower_y_bound: 287.2 upper_y_bound :320.8
+--------------
+Template width: 39 Template height: 43
+Index: 190
+X: 109 lower_x_bound: 93.8 upper_x_bound :124.2
+Y: 304 lower_y_bound: 287.2 upper_y_bound :320.8
+--------------
+Template width: 39 Template height: 43
+Index: 191
+X: 110 lower_x_bound: 94.8 upper_x_bound :125.2
+Y: 304 lower_y_bound: 287.2 upper_y_bound :320.8
+--------------
+Template width: 39 Template height: 43
+Index: 192
+X: 107 lower_x_bound: 91.8 upper_x_bound :122.2
+Y: 305 lower_y_bound: 288.2 upper_y_bound :321.8
+--------------
+Template width: 39 Template height: 43
+Index: 193
+X: 108 lower_x_bound: 92.8 upper_x_bound :123.2
+Y: 305 lower_y_bound: 288.2 upper_y_bound :321.8
+--------------
+Template width: 39 Template height: 43
+Index: 194
+X: 109 lower_x_bound: 93.8 upper_x_bound :124.2
+Y: 305 lower_y_bound: 288.2 upper_y_bound :321.8
+--------------
+Template width: 39 Template height: 43
+Index: 195
+X: 110 lower_x_bound: 94.8 upper_x_bound :125.2
+Y: 305 lower_y_bound: 288.2 upper_y_bound :321.8
+--------------
+Template width: 39 Template height: 43
+Index: 196
+X: 107 lower_x_bound: 91.8 upper_x_bound :122.2
+Y: 306 lower_y_bound: 289.2 upper_y_bound :322.8
+--------------
+Template width: 39 Template height: 43
+Index: 197
+X: 108 lower_x_bound: 92.8 upper_x_bound :123.2
+Y: 306 lower_y_bound: 289.2 upper_y_bound :322.8
+--------------
+Template width: 39 Template height: 43
+Index: 198
+X: 109 lower_x_bound: 93.8 upper_x_bound :124.2
+Y: 306 lower_y_bound: 289.2 upper_y_bound :322.8
+--------------
+Template width: 39 Template height: 43
+Index: 199
+X: 107 lower_x_bound: 91.8 upper_x_bound :122.2
+Y: 307 lower_y_bound: 290.2 upper_y_bound :323.8
+--------------
+Template width: 39 Template height: 43
+Index: 200
+X: 108 lower_x_bound: 92.8 upper_x_bound :123.2
+Y: 307 lower_y_bound: 290.2 upper_y_bound :323.8
+--------------
+Template width: 39 Template height: 43
+Index: 201
+X: 109 lower_x_bound: 93.8 upper_x_bound :124.2
+Y: 307 lower_y_bound: 290.2 upper_y_bound :323.8
+--------------
+Template width: 39 Template height: 43
+Index: 202
+X: 176 lower_x_bound: 160.8 upper_x_bound :191.2
+Y: 320 lower_y_bound: 303.2 upper_y_bound :336.8
+--------------
+Template width: 39 Template height: 43
+Index: 203
+X: 177 lower_x_bound: 161.8 upper_x_bound :192.2
+Y: 320 lower_y_bound: 303.2 upper_y_bound :336.8
+--------------
+Template width: 39 Template height: 43
+Index: 204
+X: 178 lower_x_bound: 162.8 upper_x_bound :193.2
+Y: 320 lower_y_bound: 303.2 upper_y_bound :336.8
+--------------
+Template width: 39 Template height: 43
+Index: 205
+X: 175 lower_x_bound: 159.8 upper_x_bound :190.2
+Y: 321 lower_y_bound: 304.2 upper_y_bound :337.8
+--------------
+Template width: 39 Template height: 43
+Index: 206
+X: 176 lower_x_bound: 160.8 upper_x_bound :191.2
+Y: 321 lower_y_bound: 304.2 upper_y_bound :337.8
+--------------
+Template width: 39 Template height: 43
+Index: 207
+X: 177 lower_x_bound: 161.8 upper_x_bound :192.2
+Y: 321 lower_y_bound: 304.2 upper_y_bound :337.8
+--------------
+Template width: 39 Template height: 43
+Index: 208
+X: 178 lower_x_bound: 162.8 upper_x_bound :193.2
+Y: 321 lower_y_bound: 304.2 upper_y_bound :337.8
+--------------
+Template width: 39 Template height: 43
+Index: 209
+X: 175 lower_x_bound: 159.8 upper_x_bound :190.2
+Y: 322 lower_y_bound: 305.2 upper_y_bound :338.8
+--------------
+Template width: 39 Template height: 43
+Index: 210
+X: 176 lower_x_bound: 160.8 upper_x_bound :191.2
+Y: 322 lower_y_bound: 305.2 upper_y_bound :338.8
+--------------
+Template width: 39 Template height: 43
+Index: 211
+X: 177 lower_x_bound: 161.8 upper_x_bound :192.2
+Y: 322 lower_y_bound: 305.2 upper_y_bound :338.8
+--------------
+Template width: 39 Template height: 43
+Index: 212
+X: 178 lower_x_bound: 162.8 upper_x_bound :193.2
+Y: 322 lower_y_bound: 305.2 upper_y_bound :338.8
+--------------
+Template width: 39 Template height: 43
+Index: 213
+X: 175 lower_x_bound: 159.8 upper_x_bound :190.2
+Y: 323 lower_y_bound: 306.2 upper_y_bound :339.8
+--------------
+Template width: 39 Template height: 43
+Index: 214
+X: 176 lower_x_bound: 160.8 upper_x_bound :191.2
+Y: 323 lower_y_bound: 306.2 upper_y_bound :339.8
+--------------
+Template width: 39 Template height: 43
+Index: 215
+X: 177 lower_x_bound: 161.8 upper_x_bound :192.2
+Y: 323 lower_y_bound: 306.2 upper_y_bound :339.8
+--------------
+Template width: 39 Template height: 43
+Index: 216
+X: 178 lower_x_bound: 162.8 upper_x_bound :193.2
+Y: 323 lower_y_bound: 306.2 upper_y_bound :339.8
+--------------
+Template width: 39 Template height: 43
+Index: 217
+X: 176 lower_x_bound: 160.8 upper_x_bound :191.2
+Y: 324 lower_y_bound: 307.2 upper_y_bound :340.8
+--------------
+Template width: 39 Template height: 43
+Index: 218
+X: 1490 lower_x_bound: 1474.8 upper_x_bound :1505.2
+Y: 330 lower_y_bound: 313.2 upper_y_bound :346.8
+--------------
+Template width: 39 Template height: 43
+Index: 219
+X: 1491 lower_x_bound: 1475.8 upper_x_bound :1506.2
+Y: 330 lower_y_bound: 313.2 upper_y_bound :346.8
+--------------
+Template width: 39 Template height: 43
+Index: 220
+X: 1492 lower_x_bound: 1476.8 upper_x_bound :1507.2
+Y: 330 lower_y_bound: 313.2 upper_y_bound :346.8
+--------------
+Template width: 39 Template height: 43
+Index: 221
+X: 1493 lower_x_bound: 1477.8 upper_x_bound :1508.2
+Y: 330 lower_y_bound: 313.2 upper_y_bound :346.8
+--------------
+Template width: 39 Template height: 43
+Index: 222
+X: 1490 lower_x_bound: 1474.8 upper_x_bound :1505.2
+Y: 331 lower_y_bound: 314.2 upper_y_bound :347.8
+--------------
+Template width: 39 Template height: 43
+Index: 223
+X: 1491 lower_x_bound: 1475.8 upper_x_bound :1506.2
+Y: 331 lower_y_bound: 314.2 upper_y_bound :347.8
+--------------
+Template width: 39 Template height: 43
+Index: 224
+X: 1492 lower_x_bound: 1476.8 upper_x_bound :1507.2
+Y: 331 lower_y_bound: 314.2 upper_y_bound :347.8
+--------------
+Template width: 39 Template height: 43
+Index: 225
+X: 1493 lower_x_bound: 1477.8 upper_x_bound :1508.2
+Y: 331 lower_y_bound: 314.2 upper_y_bound :347.8
+--------------
+Template width: 39 Template height: 43
+Index: 226
+X: 1494 lower_x_bound: 1478.8 upper_x_bound :1509.2
+Y: 331 lower_y_bound: 314.2 upper_y_bound :347.8
+--------------
+Template width: 39 Template height: 43
+Index: 227
+X: 1489 lower_x_bound: 1473.8 upper_x_bound :1504.2
+Y: 332 lower_y_bound: 315.2 upper_y_bound :348.8
+--------------
+Template width: 39 Template height: 43
+Index: 228
+X: 1490 lower_x_bound: 1474.8 upper_x_bound :1505.2
+Y: 332 lower_y_bound: 315.2 upper_y_bound :348.8
+--------------
+Template width: 39 Template height: 43
+Index: 229
+X: 1491 lower_x_bound: 1475.8 upper_x_bound :1506.2
+Y: 332 lower_y_bound: 315.2 upper_y_bound :348.8
+--------------
+Template width: 39 Template height: 43
+Index: 230
+X: 1492 lower_x_bound: 1476.8 upper_x_bound :1507.2
+Y: 332 lower_y_bound: 315.2 upper_y_bound :348.8
+--------------
+Template width: 39 Template height: 43
+Index: 231
+X: 1493 lower_x_bound: 1477.8 upper_x_bound :1508.2
+Y: 332 lower_y_bound: 315.2 upper_y_bound :348.8
+--------------
+Template width: 39 Template height: 43
+Index: 232
+X: 1490 lower_x_bound: 1474.8 upper_x_bound :1505.2
+Y: 333 lower_y_bound: 316.2 upper_y_bound :349.8
+--------------
+Template width: 39 Template height: 43
+Index: 233
+X: 1491 lower_x_bound: 1475.8 upper_x_bound :1506.2
+Y: 333 lower_y_bound: 316.2 upper_y_bound :349.8
+--------------
+Template width: 39 Template height: 43
+Index: 234
+X: 1492 lower_x_bound: 1476.8 upper_x_bound :1507.2
+Y: 333 lower_y_bound: 316.2 upper_y_bound :349.8
+--------------
+Template width: 39 Template height: 43
+Index: 235
+X: 1493 lower_x_bound: 1477.8 upper_x_bound :1508.2
+Y: 333 lower_y_bound: 316.2 upper_y_bound :349.8
+--------------
+Template width: 39 Template height: 43
+Index: 236
+X: 241 lower_x_bound: 225.8 upper_x_bound :256.2
+Y: 365 lower_y_bound: 348.2 upper_y_bound :381.8
+--------------
+Template width: 39 Template height: 43
+Index: 237
+X: 242 lower_x_bound: 226.8 upper_x_bound :257.2
+Y: 365 lower_y_bound: 348.2 upper_y_bound :381.8
+--------------
+Template width: 39 Template height: 43
+Index: 238
+X: 240 lower_x_bound: 224.8 upper_x_bound :255.2
+Y: 366 lower_y_bound: 349.2 upper_y_bound :382.8
+--------------
+Template width: 39 Template height: 43
+Index: 239
+X: 241 lower_x_bound: 225.8 upper_x_bound :256.2
+Y: 366 lower_y_bound: 349.2 upper_y_bound :382.8
+--------------
+Template width: 39 Template height: 43
+Index: 240
+X: 242 lower_x_bound: 226.8 upper_x_bound :257.2
+Y: 366 lower_y_bound: 349.2 upper_y_bound :382.8
+--------------
+Template width: 39 Template height: 43
+Index: 241
+X: 240 lower_x_bound: 224.8 upper_x_bound :255.2
+Y: 367 lower_y_bound: 350.2 upper_y_bound :383.8
+--------------
+Template width: 39 Template height: 43
+Index: 242
+X: 241 lower_x_bound: 225.8 upper_x_bound :256.2
+Y: 367 lower_y_bound: 350.2 upper_y_bound :383.8
+--------------
+Template width: 39 Template height: 43
+Index: 243
+X: 242 lower_x_bound: 226.8 upper_x_bound :257.2
+Y: 367 lower_y_bound: 350.2 upper_y_bound :383.8
+--------------
+Template width: 39 Template height: 43
+Index: 244
+X: 240 lower_x_bound: 224.8 upper_x_bound :255.2
+Y: 368 lower_y_bound: 351.2 upper_y_bound :384.8
+--------------
+Template width: 39 Template height: 43
+Index: 245
+X: 241 lower_x_bound: 225.8 upper_x_bound :256.2
+Y: 368 lower_y_bound: 351.2 upper_y_bound :384.8
+--------------
+Template width: 39 Template height: 43
+Index: 246
+X: 1623 lower_x_bound: 1607.8 upper_x_bound :1638.2
+Y: 370 lower_y_bound: 353.2 upper_y_bound :386.8
+--------------
+Template width: 39 Template height: 43
+Index: 247
+X: 1624 lower_x_bound: 1608.8 upper_x_bound :1639.2
+Y: 370 lower_y_bound: 353.2 upper_y_bound :386.8
+--------------
+Template width: 39 Template height: 43
+Index: 248
+X: 1622 lower_x_bound: 1606.8 upper_x_bound :1637.2
+Y: 371 lower_y_bound: 354.2 upper_y_bound :387.8
+--------------
+Template width: 39 Template height: 43
+Index: 249
+X: 1623 lower_x_bound: 1607.8 upper_x_bound :1638.2
+Y: 371 lower_y_bound: 354.2 upper_y_bound :387.8
+--------------
+Template width: 39 Template height: 43
+Index: 250
+X: 1624 lower_x_bound: 1608.8 upper_x_bound :1639.2
+Y: 371 lower_y_bound: 354.2 upper_y_bound :387.8
+--------------
+Template width: 39 Template height: 43
+Index: 251
+X: 1625 lower_x_bound: 1609.8 upper_x_bound :1640.2
+Y: 371 lower_y_bound: 354.2 upper_y_bound :387.8
+--------------
+Template width: 39 Template height: 43
+Index: 252
+X: 1621 lower_x_bound: 1605.8 upper_x_bound :1636.2
+Y: 372 lower_y_bound: 355.2 upper_y_bound :388.8
+--------------
+Template width: 39 Template height: 43
+Index: 253
+X: 1622 lower_x_bound: 1606.8 upper_x_bound :1637.2
+Y: 372 lower_y_bound: 355.2 upper_y_bound :388.8
+--------------
+Template width: 39 Template height: 43
+Index: 254
+X: 1623 lower_x_bound: 1607.8 upper_x_bound :1638.2
+Y: 372 lower_y_bound: 355.2 upper_y_bound :388.8
+--------------
+Template width: 39 Template height: 43
+Index: 255
+X: 1624 lower_x_bound: 1608.8 upper_x_bound :1639.2
+Y: 372 lower_y_bound: 355.2 upper_y_bound :388.8
+--------------
+Template width: 39 Template height: 43
+Index: 256
+X: 1625 lower_x_bound: 1609.8 upper_x_bound :1640.2
+Y: 372 lower_y_bound: 355.2 upper_y_bound :388.8
+--------------
+Template width: 39 Template height: 43
+Index: 257
+X: 1621 lower_x_bound: 1605.8 upper_x_bound :1636.2
+Y: 373 lower_y_bound: 356.2 upper_y_bound :389.8
+--------------
+Template width: 39 Template height: 43
+Index: 258
+X: 1622 lower_x_bound: 1606.8 upper_x_bound :1637.2
+Y: 373 lower_y_bound: 356.2 upper_y_bound :389.8
+--------------
+Template width: 39 Template height: 43
+Index: 259
+X: 1623 lower_x_bound: 1607.8 upper_x_bound :1638.2
+Y: 373 lower_y_bound: 356.2 upper_y_bound :389.8
+--------------
+Template width: 39 Template height: 43
+Index: 260
+X: 1624 lower_x_bound: 1608.8 upper_x_bound :1639.2
+Y: 373 lower_y_bound: 356.2 upper_y_bound :389.8
+--------------
+Template width: 39 Template height: 43
+Index: 261
+X: 1625 lower_x_bound: 1609.8 upper_x_bound :1640.2
+Y: 373 lower_y_bound: 356.2 upper_y_bound :389.8
+--------------
+Template width: 39 Template height: 43
+Index: 262
+X: 1622 lower_x_bound: 1606.8 upper_x_bound :1637.2
+Y: 374 lower_y_bound: 357.2 upper_y_bound :390.8
+--------------
+Template width: 39 Template height: 43
+Index: 263
+X: 1623 lower_x_bound: 1607.8 upper_x_bound :1638.2
+Y: 374 lower_y_bound: 357.2 upper_y_bound :390.8
+--------------
+Template width: 39 Template height: 43
+Index: 264
+X: 285 lower_x_bound: 269.8 upper_x_bound :300.2
+Y: 385 lower_y_bound: 368.2 upper_y_bound :401.8
+--------------
+Template width: 39 Template height: 43
+Index: 265
+X: 286 lower_x_bound: 270.8 upper_x_bound :301.2
+Y: 385 lower_y_bound: 368.2 upper_y_bound :401.8
+--------------
+Template width: 39 Template height: 43
+Index: 266
+X: 284 lower_x_bound: 268.8 upper_x_bound :299.2
+Y: 386 lower_y_bound: 369.2 upper_y_bound :402.8
+--------------
+Template width: 39 Template height: 43
+Index: 267
+X: 285 lower_x_bound: 269.8 upper_x_bound :300.2
+Y: 386 lower_y_bound: 369.2 upper_y_bound :402.8
+--------------
+Template width: 39 Template height: 43
+Index: 268
+X: 286 lower_x_bound: 270.8 upper_x_bound :301.2
+Y: 386 lower_y_bound: 369.2 upper_y_bound :402.8
+--------------
+Template width: 39 Template height: 43
+Index: 269
+X: 287 lower_x_bound: 271.8 upper_x_bound :302.2
+Y: 386 lower_y_bound: 369.2 upper_y_bound :402.8
+--------------
+Template width: 39 Template height: 43
+Index: 270
+X: 284 lower_x_bound: 268.8 upper_x_bound :299.2
+Y: 387 lower_y_bound: 370.2 upper_y_bound :403.8
+--------------
+Template width: 39 Template height: 43
+Index: 271
+X: 285 lower_x_bound: 269.8 upper_x_bound :300.2
+Y: 387 lower_y_bound: 370.2 upper_y_bound :403.8
+--------------
+Template width: 39 Template height: 43
+Index: 272
+X: 286 lower_x_bound: 270.8 upper_x_bound :301.2
+Y: 387 lower_y_bound: 370.2 upper_y_bound :403.8
+--------------
+Template width: 39 Template height: 43
+Index: 273
+X: 287 lower_x_bound: 271.8 upper_x_bound :302.2
+Y: 387 lower_y_bound: 370.2 upper_y_bound :403.8
+--------------
+Template width: 39 Template height: 43
+Index: 274
+X: 284 lower_x_bound: 268.8 upper_x_bound :299.2
+Y: 388 lower_y_bound: 371.2 upper_y_bound :404.8
+--------------
+Template width: 39 Template height: 43
+Index: 275
+X: 285 lower_x_bound: 269.8 upper_x_bound :300.2
+Y: 388 lower_y_bound: 371.2 upper_y_bound :404.8
+--------------
+Template width: 39 Template height: 43
+Index: 276
+X: 286 lower_x_bound: 270.8 upper_x_bound :301.2
+Y: 388 lower_y_bound: 371.2 upper_y_bound :404.8
+--------------
+Template width: 39 Template height: 43
+Index: 277
+X: 285 lower_x_bound: 269.8 upper_x_bound :300.2
+Y: 389 lower_y_bound: 372.2 upper_y_bound :405.8
+--------------
+Template width: 39 Template height: 43
+Index: 278
+X: 330 lower_x_bound: 314.8 upper_x_bound :345.2
+Y: 415 lower_y_bound: 398.2 upper_y_bound :431.8
+--------------
+Template width: 39 Template height: 43
+Index: 279
+X: 331 lower_x_bound: 315.8 upper_x_bound :346.2
+Y: 415 lower_y_bound: 398.2 upper_y_bound :431.8
+--------------
+Template width: 39 Template height: 43
+Index: 280
+X: 330 lower_x_bound: 314.8 upper_x_bound :345.2
+Y: 416 lower_y_bound: 399.2 upper_y_bound :432.8
+--------------
+Template width: 39 Template height: 43
+Index: 281
+X: 331 lower_x_bound: 315.8 upper_x_bound :346.2
+Y: 416 lower_y_bound: 399.2 upper_y_bound :432.8
+--------------
+Template width: 39 Template height: 43
+Index: 282
+X: 330 lower_x_bound: 314.8 upper_x_bound :345.2
+Y: 417 lower_y_bound: 400.2 upper_y_bound :433.8
+--------------
+Template width: 39 Template height: 43
+Index: 283
+X: 1781 lower_x_bound: 1765.8 upper_x_bound :1796.2
+Y: 430 lower_y_bound: 413.2 upper_y_bound :446.8
+--------------
+Template width: 39 Template height: 43
+Index: 284
+X: 1780 lower_x_bound: 1764.8 upper_x_bound :1795.2
+Y: 431 lower_y_bound: 414.2 upper_y_bound :447.8
+--------------
+Template width: 39 Template height: 43
+Index: 285
+X: 1781 lower_x_bound: 1765.8 upper_x_bound :1796.2
+Y: 431 lower_y_bound: 414.2 upper_y_bound :447.8
+--------------
+Template width: 39 Template height: 43
+Index: 286
+X: 1782 lower_x_bound: 1766.8 upper_x_bound :1797.2
+Y: 431 lower_y_bound: 414.2 upper_y_bound :447.8
+--------------
+Template width: 39 Template height: 43
+Index: 287
+X: 1780 lower_x_bound: 1764.8 upper_x_bound :1795.2
+Y: 432 lower_y_bound: 415.2 upper_y_bound :448.8
+--------------
+Template width: 39 Template height: 43
+Index: 288
+X: 1781 lower_x_bound: 1765.8 upper_x_bound :1796.2
+Y: 432 lower_y_bound: 415.2 upper_y_bound :448.8
+--------------
+Template width: 39 Template height: 43
+Index: 289
+X: 1782 lower_x_bound: 1766.8 upper_x_bound :1797.2
+Y: 432 lower_y_bound: 415.2 upper_y_bound :448.8
+--------------
+Template width: 39 Template height: 43
+Index: 290
+X: 1783 lower_x_bound: 1767.8 upper_x_bound :1798.2
+Y: 432 lower_y_bound: 415.2 upper_y_bound :448.8
+--------------
+Template width: 39 Template height: 43
+Index: 291
+X: 1781 lower_x_bound: 1765.8 upper_x_bound :1796.2
+Y: 433 lower_y_bound: 416.2 upper_y_bound :449.8
+--------------
+Template width: 39 Template height: 43
+Index: 292
+X: 1782 lower_x_bound: 1766.8 upper_x_bound :1797.2
+Y: 433 lower_y_bound: 416.2 upper_y_bound :449.8
+--------------
+Template width: 39 Template height: 43
+Index: 293
+X: 820 lower_x_bound: 804.8 upper_x_bound :835.2
+Y: 455 lower_y_bound: 438.2 upper_y_bound :471.8
+--------------
+Template width: 39 Template height: 43
+Index: 294
+X: 821 lower_x_bound: 805.8 upper_x_bound :836.2
+Y: 455 lower_y_bound: 438.2 upper_y_bound :471.8
+--------------
+Template width: 39 Template height: 43
+Index: 295
+X: 819 lower_x_bound: 803.8 upper_x_bound :834.2
+Y: 456 lower_y_bound: 439.2 upper_y_bound :472.8
+--------------
+Template width: 39 Template height: 43
+Index: 296
+X: 820 lower_x_bound: 804.8 upper_x_bound :835.2
+Y: 456 lower_y_bound: 439.2 upper_y_bound :472.8
+--------------
+Template width: 39 Template height: 43
+Index: 297
+X: 821 lower_x_bound: 805.8 upper_x_bound :836.2
+Y: 456 lower_y_bound: 439.2 upper_y_bound :472.8
+--------------
+Template width: 39 Template height: 43
+Index: 298
+X: 822 lower_x_bound: 806.8 upper_x_bound :837.2
+Y: 456 lower_y_bound: 439.2 upper_y_bound :472.8
+--------------
+Template width: 39 Template height: 43
+Index: 299
+X: 819 lower_x_bound: 803.8 upper_x_bound :834.2
+Y: 457 lower_y_bound: 440.2 upper_y_bound :473.8
+--------------
+Template width: 39 Template height: 43
+Index: 300
+X: 820 lower_x_bound: 804.8 upper_x_bound :835.2
+Y: 457 lower_y_bound: 440.2 upper_y_bound :473.8
+--------------
+Template width: 39 Template height: 43
+Index: 301
+X: 821 lower_x_bound: 805.8 upper_x_bound :836.2
+Y: 457 lower_y_bound: 440.2 upper_y_bound :473.8
+--------------
+Template width: 39 Template height: 43
+Index: 302
+X: 822 lower_x_bound: 806.8 upper_x_bound :837.2
+Y: 457 lower_y_bound: 440.2 upper_y_bound :473.8
+--------------
+Template width: 39 Template height: 43
+Index: 303
+X: 819 lower_x_bound: 803.8 upper_x_bound :834.2
+Y: 458 lower_y_bound: 441.2 upper_y_bound :474.8
+--------------
+Template width: 39 Template height: 43
+Index: 304
+X: 820 lower_x_bound: 804.8 upper_x_bound :835.2
+Y: 458 lower_y_bound: 441.2 upper_y_bound :474.8
+--------------
+Template width: 39 Template height: 43
+Index: 305
+X: 821 lower_x_bound: 805.8 upper_x_bound :836.2
+Y: 458 lower_y_bound: 441.2 upper_y_bound :474.8
+--------------
+Template width: 39 Template height: 43
+Index: 306
+X: 780 lower_x_bound: 764.8 upper_x_bound :795.2
+Y: 499 lower_y_bound: 482.2 upper_y_bound :515.8
+--------------
+Template width: 39 Template height: 43
+Index: 307
+X: 781 lower_x_bound: 765.8 upper_x_bound :796.2
+Y: 499 lower_y_bound: 482.2 upper_y_bound :515.8
+--------------
+Template width: 39 Template height: 43
+Index: 308
+X: 779 lower_x_bound: 763.8 upper_x_bound :794.2
+Y: 500 lower_y_bound: 483.2 upper_y_bound :516.8
+--------------
+Template width: 39 Template height: 43
+Index: 309
+X: 780 lower_x_bound: 764.8 upper_x_bound :795.2
+Y: 500 lower_y_bound: 483.2 upper_y_bound :516.8
+--------------
+Template width: 39 Template height: 43
+Index: 310
+X: 781 lower_x_bound: 765.8 upper_x_bound :796.2
+Y: 500 lower_y_bound: 483.2 upper_y_bound :516.8
+--------------
+Template width: 39 Template height: 43
+Index: 311
+X: 782 lower_x_bound: 766.8 upper_x_bound :797.2
+Y: 500 lower_y_bound: 483.2 upper_y_bound :516.8
+--------------
+Template width: 39 Template height: 43
+Index: 312
+X: 783 lower_x_bound: 767.8 upper_x_bound :798.2
+Y: 500 lower_y_bound: 483.2 upper_y_bound :516.8
+--------------
+Template width: 39 Template height: 43
+Index: 313
+X: 779 lower_x_bound: 763.8 upper_x_bound :794.2
+Y: 501 lower_y_bound: 484.2 upper_y_bound :517.8
+--------------
+Template width: 39 Template height: 43
+Index: 314
+X: 780 lower_x_bound: 764.8 upper_x_bound :795.2
+Y: 501 lower_y_bound: 484.2 upper_y_bound :517.8
+--------------
+Template width: 39 Template height: 43
+Index: 315
+X: 781 lower_x_bound: 765.8 upper_x_bound :796.2
+Y: 501 lower_y_bound: 484.2 upper_y_bound :517.8
+--------------
+Template width: 39 Template height: 43
+Index: 316
+X: 782 lower_x_bound: 766.8 upper_x_bound :797.2
+Y: 501 lower_y_bound: 484.2 upper_y_bound :517.8
+--------------
+Template width: 39 Template height: 43
+Index: 317
+X: 783 lower_x_bound: 767.8 upper_x_bound :798.2
+Y: 501 lower_y_bound: 484.2 upper_y_bound :517.8
+--------------
+Template width: 39 Template height: 43
+Index: 318
+X: 779 lower_x_bound: 763.8 upper_x_bound :794.2
+Y: 502 lower_y_bound: 485.2 upper_y_bound :518.8
+--------------
+Template width: 39 Template height: 43
+Index: 319
+X: 780 lower_x_bound: 764.8 upper_x_bound :795.2
+Y: 502 lower_y_bound: 485.2 upper_y_bound :518.8
+--------------
+Template width: 39 Template height: 43
+Index: 320
+X: 781 lower_x_bound: 765.8 upper_x_bound :796.2
+Y: 502 lower_y_bound: 485.2 upper_y_bound :518.8
+--------------
+Template width: 39 Template height: 43
+Index: 321
+X: 782 lower_x_bound: 766.8 upper_x_bound :797.2
+Y: 502 lower_y_bound: 485.2 upper_y_bound :518.8
+--------------
+Template width: 39 Template height: 43
+Index: 322
+X: 742 lower_x_bound: 726.8 upper_x_bound :757.2
+Y: 503 lower_y_bound: 486.2 upper_y_bound :519.8
+--------------
+Template width: 39 Template height: 43
+Index: 323
+X: 743 lower_x_bound: 727.8 upper_x_bound :758.2
+Y: 503 lower_y_bound: 486.2 upper_y_bound :519.8
+--------------
+Template width: 39 Template height: 43
+Index: 324
+X: 744 lower_x_bound: 728.8 upper_x_bound :759.2
+Y: 503 lower_y_bound: 486.2 upper_y_bound :519.8
+--------------
+Template width: 39 Template height: 43
+Index: 325
+X: 780 lower_x_bound: 764.8 upper_x_bound :795.2
+Y: 503 lower_y_bound: 486.2 upper_y_bound :519.8
+--------------
+Template width: 39 Template height: 43
+Index: 326
+X: 781 lower_x_bound: 765.8 upper_x_bound :796.2
+Y: 503 lower_y_bound: 486.2 upper_y_bound :519.8
+--------------
+Template width: 39 Template height: 43
+Index: 327
+X: 741 lower_x_bound: 725.8 upper_x_bound :756.2
+Y: 504 lower_y_bound: 487.2 upper_y_bound :520.8
+--------------
+Template width: 39 Template height: 43
+Index: 328
+X: 742 lower_x_bound: 726.8 upper_x_bound :757.2
+Y: 504 lower_y_bound: 487.2 upper_y_bound :520.8
+--------------
+Template width: 39 Template height: 43
+Index: 329
+X: 743 lower_x_bound: 727.8 upper_x_bound :758.2
+Y: 504 lower_y_bound: 487.2 upper_y_bound :520.8
+--------------
+Template width: 39 Template height: 43
+Index: 330
+X: 744 lower_x_bound: 728.8 upper_x_bound :759.2
+Y: 504 lower_y_bound: 487.2 upper_y_bound :520.8
+--------------
+Template width: 39 Template height: 43
+Index: 331
+X: 745 lower_x_bound: 729.8 upper_x_bound :760.2
+Y: 504 lower_y_bound: 487.2 upper_y_bound :520.8
+--------------
+Template width: 39 Template height: 43
+Index: 332
+X: 741 lower_x_bound: 725.8 upper_x_bound :756.2
+Y: 505 lower_y_bound: 488.2 upper_y_bound :521.8
+--------------
+Template width: 39 Template height: 43
+Index: 333
+X: 742 lower_x_bound: 726.8 upper_x_bound :757.2
+Y: 505 lower_y_bound: 488.2 upper_y_bound :521.8
+--------------
+Template width: 39 Template height: 43
+Index: 334
+X: 743 lower_x_bound: 727.8 upper_x_bound :758.2
+Y: 505 lower_y_bound: 488.2 upper_y_bound :521.8
+--------------
+Template width: 39 Template height: 43
+Index: 335
+X: 744 lower_x_bound: 728.8 upper_x_bound :759.2
+Y: 505 lower_y_bound: 488.2 upper_y_bound :521.8
+--------------
+Template width: 39 Template height: 43
+Index: 336
+X: 745 lower_x_bound: 729.8 upper_x_bound :760.2
+Y: 505 lower_y_bound: 488.2 upper_y_bound :521.8
+--------------
+Template width: 39 Template height: 43
+Index: 337
+X: 741 lower_x_bound: 725.8 upper_x_bound :756.2
+Y: 506 lower_y_bound: 489.2 upper_y_bound :522.8
+--------------
+Template width: 39 Template height: 43
+Index: 338
+X: 742 lower_x_bound: 726.8 upper_x_bound :757.2
+Y: 506 lower_y_bound: 489.2 upper_y_bound :522.8
+--------------
+Template width: 39 Template height: 43
+Index: 339
+X: 743 lower_x_bound: 727.8 upper_x_bound :758.2
+Y: 506 lower_y_bound: 489.2 upper_y_bound :522.8
+--------------
+Template width: 39 Template height: 43
+Index: 340
+X: 744 lower_x_bound: 728.8 upper_x_bound :759.2
+Y: 506 lower_y_bound: 489.2 upper_y_bound :522.8
+--------------
+Template width: 39 Template height: 43
+Index: 341
+X: 742 lower_x_bound: 726.8 upper_x_bound :757.2
+Y: 507 lower_y_bound: 490.2 upper_y_bound :523.8
+--------------
+Template width: 39 Template height: 43
+Index: 342
+X: 743 lower_x_bound: 727.8 upper_x_bound :758.2
+Y: 507 lower_y_bound: 490.2 upper_y_bound :523.8
+--------------
+Template width: 39 Template height: 43
+Index: 343
+X: 818 lower_x_bound: 802.8 upper_x_bound :833.2
+Y: 509 lower_y_bound: 492.2 upper_y_bound :525.8
+--------------
+Template width: 39 Template height: 43
+Index: 344
+X: 819 lower_x_bound: 803.8 upper_x_bound :834.2
+Y: 509 lower_y_bound: 492.2 upper_y_bound :525.8
+--------------
+Template width: 39 Template height: 43
+Index: 345
+X: 820 lower_x_bound: 804.8 upper_x_bound :835.2
+Y: 509 lower_y_bound: 492.2 upper_y_bound :525.8
+--------------
+Template width: 39 Template height: 43
+Index: 346
+X: 821 lower_x_bound: 805.8 upper_x_bound :836.2
+Y: 509 lower_y_bound: 492.2 upper_y_bound :525.8
+--------------
+Template width: 39 Template height: 43
+Index: 347
+X: 817 lower_x_bound: 801.8 upper_x_bound :832.2
+Y: 510 lower_y_bound: 493.2 upper_y_bound :526.8
+--------------
+Template width: 39 Template height: 43
+Index: 348
+X: 818 lower_x_bound: 802.8 upper_x_bound :833.2
+Y: 510 lower_y_bound: 493.2 upper_y_bound :526.8
+--------------
+Template width: 39 Template height: 43
+Index: 349
+X: 819 lower_x_bound: 803.8 upper_x_bound :834.2
+Y: 510 lower_y_bound: 493.2 upper_y_bound :526.8
+--------------
+Template width: 39 Template height: 43
+Index: 350
+X: 820 lower_x_bound: 804.8 upper_x_bound :835.2
+Y: 510 lower_y_bound: 493.2 upper_y_bound :526.8
+--------------
+Template width: 39 Template height: 43
+Index: 351
+X: 821 lower_x_bound: 805.8 upper_x_bound :836.2
+Y: 510 lower_y_bound: 493.2 upper_y_bound :526.8
+--------------
+Template width: 39 Template height: 43
+Index: 352
+X: 818 lower_x_bound: 802.8 upper_x_bound :833.2
+Y: 511 lower_y_bound: 494.2 upper_y_bound :527.8
+--------------
+Template width: 39 Template height: 43
+Index: 353
+X: 819 lower_x_bound: 803.8 upper_x_bound :834.2
+Y: 511 lower_y_bound: 494.2 upper_y_bound :527.8
+--------------
+Template width: 39 Template height: 43
+Index: 354
+X: 820 lower_x_bound: 804.8 upper_x_bound :835.2
+Y: 511 lower_y_bound: 494.2 upper_y_bound :527.8
+--------------
+Template width: 39 Template height: 43
+Index: 355
+X: 821 lower_x_bound: 805.8 upper_x_bound :836.2
+Y: 511 lower_y_bound: 494.2 upper_y_bound :527.8
+--------------
+Template width: 39 Template height: 43
+Index: 356
+X: 818 lower_x_bound: 802.8 upper_x_bound :833.2
+Y: 512 lower_y_bound: 495.2 upper_y_bound :528.8
+--------------
+Template width: 39 Template height: 43
+Index: 357
+X: 819 lower_x_bound: 803.8 upper_x_bound :834.2
+Y: 512 lower_y_bound: 495.2 upper_y_bound :528.8
+--------------
+Template width: 39 Template height: 43
+Index: 358
+X: 820 lower_x_bound: 804.8 upper_x_bound :835.2
+Y: 512 lower_y_bound: 495.2 upper_y_bound :528.8
+--------------
+Template width: 39 Template height: 43
+Index: 359
+X: 1938 lower_x_bound: 1922.8 upper_x_bound :1953.2
+Y: 519 lower_y_bound: 502.2 upper_y_bound :535.8
+--------------
+Template width: 39 Template height: 43
+Index: 360
+X: 1939 lower_x_bound: 1923.8 upper_x_bound :1954.2
+Y: 519 lower_y_bound: 502.2 upper_y_bound :535.8
+--------------
+Template width: 39 Template height: 43
+Index: 361
+X: 1940 lower_x_bound: 1924.8 upper_x_bound :1955.2
+Y: 519 lower_y_bound: 502.2 upper_y_bound :535.8
+--------------
+Template width: 39 Template height: 43
+Index: 362
+X: 1937 lower_x_bound: 1921.8 upper_x_bound :1952.2
+Y: 520 lower_y_bound: 503.2 upper_y_bound :536.8
+--------------
+Template width: 39 Template height: 43
+Index: 363
+X: 1938 lower_x_bound: 1922.8 upper_x_bound :1953.2
+Y: 520 lower_y_bound: 503.2 upper_y_bound :536.8
+--------------
+Template width: 39 Template height: 43
+Index: 364
+X: 1939 lower_x_bound: 1923.8 upper_x_bound :1954.2
+Y: 520 lower_y_bound: 503.2 upper_y_bound :536.8
+--------------
+Template width: 39 Template height: 43
+Index: 365
+X: 1940 lower_x_bound: 1924.8 upper_x_bound :1955.2
+Y: 520 lower_y_bound: 503.2 upper_y_bound :536.8
+--------------
+Template width: 39 Template height: 43
+Index: 366
+X: 1941 lower_x_bound: 1925.8 upper_x_bound :1956.2
+Y: 520 lower_y_bound: 503.2 upper_y_bound :536.8
+--------------
+Template width: 39 Template height: 43
+Index: 367
+X: 1937 lower_x_bound: 1921.8 upper_x_bound :1952.2
+Y: 521 lower_y_bound: 504.2 upper_y_bound :537.8
+--------------
+Template width: 39 Template height: 43
+Index: 368
+X: 1938 lower_x_bound: 1922.8 upper_x_bound :1953.2
+Y: 521 lower_y_bound: 504.2 upper_y_bound :537.8
+--------------
+Template width: 39 Template height: 43
+Index: 369
+X: 1939 lower_x_bound: 1923.8 upper_x_bound :1954.2
+Y: 521 lower_y_bound: 504.2 upper_y_bound :537.8
+--------------
+Template width: 39 Template height: 43
+Index: 370
+X: 1940 lower_x_bound: 1924.8 upper_x_bound :1955.2
+Y: 521 lower_y_bound: 504.2 upper_y_bound :537.8
+--------------
+Template width: 39 Template height: 43
+Index: 371
+X: 1941 lower_x_bound: 1925.8 upper_x_bound :1956.2
+Y: 521 lower_y_bound: 504.2 upper_y_bound :537.8
+--------------
+Template width: 39 Template height: 43
+Index: 372
+X: 1937 lower_x_bound: 1921.8 upper_x_bound :1952.2
+Y: 522 lower_y_bound: 505.2 upper_y_bound :538.8
+--------------
+Template width: 39 Template height: 43
+Index: 373
+X: 1938 lower_x_bound: 1922.8 upper_x_bound :1953.2
+Y: 522 lower_y_bound: 505.2 upper_y_bound :538.8
+--------------
+Template width: 39 Template height: 43
+Index: 374
+X: 1939 lower_x_bound: 1923.8 upper_x_bound :1954.2
+Y: 522 lower_y_bound: 505.2 upper_y_bound :538.8
+--------------
+Template width: 39 Template height: 43
+Index: 375
+X: 1940 lower_x_bound: 1924.8 upper_x_bound :1955.2
+Y: 522 lower_y_bound: 505.2 upper_y_bound :538.8
+--------------
+Template width: 39 Template height: 43
+Index: 376
+X: 1938 lower_x_bound: 1922.8 upper_x_bound :1953.2
+Y: 523 lower_y_bound: 506.2 upper_y_bound :539.8
+--------------
+Template width: 39 Template height: 43
+Index: 377
+X: 2061 lower_x_bound: 2045.8 upper_x_bound :2076.2
+Y: 530 lower_y_bound: 513.2 upper_y_bound :546.8
+--------------
+Template width: 39 Template height: 43
+Index: 378
+X: 2062 lower_x_bound: 2046.8 upper_x_bound :2077.2
+Y: 530 lower_y_bound: 513.2 upper_y_bound :546.8
+--------------
+Template width: 39 Template height: 43
+Index: 379
+X: 968 lower_x_bound: 952.8 upper_x_bound :983.2
+Y: 531 lower_y_bound: 514.2 upper_y_bound :547.8
+--------------
+Template width: 39 Template height: 43
+Index: 380
+X: 969 lower_x_bound: 953.8 upper_x_bound :984.2
+Y: 531 lower_y_bound: 514.2 upper_y_bound :547.8
+--------------
+Template width: 39 Template height: 43
+Index: 381
+X: 970 lower_x_bound: 954.8 upper_x_bound :985.2
+Y: 531 lower_y_bound: 514.2 upper_y_bound :547.8
+--------------
+Template width: 39 Template height: 43
+Index: 382
+X: 2060 lower_x_bound: 2044.8 upper_x_bound :2075.2
+Y: 531 lower_y_bound: 514.2 upper_y_bound :547.8
+--------------
+Template width: 39 Template height: 43
+Index: 383
+X: 2061 lower_x_bound: 2045.8 upper_x_bound :2076.2
+Y: 531 lower_y_bound: 514.2 upper_y_bound :547.8
+--------------
+Template width: 39 Template height: 43
+Index: 384
+X: 2062 lower_x_bound: 2046.8 upper_x_bound :2077.2
+Y: 531 lower_y_bound: 514.2 upper_y_bound :547.8
+--------------
+Template width: 39 Template height: 43
+Index: 385
+X: 2063 lower_x_bound: 2047.8 upper_x_bound :2078.2
+Y: 531 lower_y_bound: 514.2 upper_y_bound :547.8
+--------------
+Template width: 39 Template height: 43
+Index: 386
+X: 967 lower_x_bound: 951.8 upper_x_bound :982.2
+Y: 532 lower_y_bound: 515.2 upper_y_bound :548.8
+--------------
+Template width: 39 Template height: 43
+Index: 387
+X: 968 lower_x_bound: 952.8 upper_x_bound :983.2
+Y: 532 lower_y_bound: 515.2 upper_y_bound :548.8
+--------------
+Template width: 39 Template height: 43
+Index: 388
+X: 969 lower_x_bound: 953.8 upper_x_bound :984.2
+Y: 532 lower_y_bound: 515.2 upper_y_bound :548.8
+--------------
+Template width: 39 Template height: 43
+Index: 389
+X: 970 lower_x_bound: 954.8 upper_x_bound :985.2
+Y: 532 lower_y_bound: 515.2 upper_y_bound :548.8
+--------------
+Template width: 39 Template height: 43
+Index: 390
+X: 971 lower_x_bound: 955.8 upper_x_bound :986.2
+Y: 532 lower_y_bound: 515.2 upper_y_bound :548.8
+--------------
+Template width: 39 Template height: 43
+Index: 391
+X: 2060 lower_x_bound: 2044.8 upper_x_bound :2075.2
+Y: 532 lower_y_bound: 515.2 upper_y_bound :548.8
+--------------
+Template width: 39 Template height: 43
+Index: 392
+X: 2061 lower_x_bound: 2045.8 upper_x_bound :2076.2
+Y: 532 lower_y_bound: 515.2 upper_y_bound :548.8
+--------------
+Template width: 39 Template height: 43
+Index: 393
+X: 2062 lower_x_bound: 2046.8 upper_x_bound :2077.2
+Y: 532 lower_y_bound: 515.2 upper_y_bound :548.8
+--------------
+Template width: 39 Template height: 43
+Index: 394
+X: 2063 lower_x_bound: 2047.8 upper_x_bound :2078.2
+Y: 532 lower_y_bound: 515.2 upper_y_bound :548.8
+--------------
+Template width: 39 Template height: 43
+Index: 395
+X: 966 lower_x_bound: 950.8 upper_x_bound :981.2
+Y: 533 lower_y_bound: 516.2 upper_y_bound :549.8
+--------------
+Template width: 39 Template height: 43
+Index: 396
+X: 967 lower_x_bound: 951.8 upper_x_bound :982.2
+Y: 533 lower_y_bound: 516.2 upper_y_bound :549.8
+--------------
+Template width: 39 Template height: 43
+Index: 397
+X: 968 lower_x_bound: 952.8 upper_x_bound :983.2
+Y: 533 lower_y_bound: 516.2 upper_y_bound :549.8
+--------------
+Template width: 39 Template height: 43
+Index: 398
+X: 969 lower_x_bound: 953.8 upper_x_bound :984.2
+Y: 533 lower_y_bound: 516.2 upper_y_bound :549.8
+--------------
+Template width: 39 Template height: 43
+Index: 399
+X: 970 lower_x_bound: 954.8 upper_x_bound :985.2
+Y: 533 lower_y_bound: 516.2 upper_y_bound :549.8
+--------------
+Template width: 39 Template height: 43
+Index: 400
+X: 971 lower_x_bound: 955.8 upper_x_bound :986.2
+Y: 533 lower_y_bound: 516.2 upper_y_bound :549.8
+--------------
+Template width: 39 Template height: 43
+Index: 401
+X: 2060 lower_x_bound: 2044.8 upper_x_bound :2075.2
+Y: 533 lower_y_bound: 516.2 upper_y_bound :549.8
+--------------
+Template width: 39 Template height: 43
+Index: 402
+X: 2061 lower_x_bound: 2045.8 upper_x_bound :2076.2
+Y: 533 lower_y_bound: 516.2 upper_y_bound :549.8
+--------------
+Template width: 39 Template height: 43
+Index: 403
+X: 2062 lower_x_bound: 2046.8 upper_x_bound :2077.2
+Y: 533 lower_y_bound: 516.2 upper_y_bound :549.8
+--------------
+Template width: 39 Template height: 43
+Index: 404
+X: 967 lower_x_bound: 951.8 upper_x_bound :982.2
+Y: 534 lower_y_bound: 517.2 upper_y_bound :550.8
+--------------
+Template width: 39 Template height: 43
+Index: 405
+X: 968 lower_x_bound: 952.8 upper_x_bound :983.2
+Y: 534 lower_y_bound: 517.2 upper_y_bound :550.8
+--------------
+Template width: 39 Template height: 43
+Index: 406
+X: 969 lower_x_bound: 953.8 upper_x_bound :984.2
+Y: 534 lower_y_bound: 517.2 upper_y_bound :550.8
+--------------
+Template width: 39 Template height: 43
+Index: 407
+X: 970 lower_x_bound: 954.8 upper_x_bound :985.2
+Y: 534 lower_y_bound: 517.2 upper_y_bound :550.8
+--------------
+Template width: 39 Template height: 43
+Index: 408
+X: 2033 lower_x_bound: 2017.8 upper_x_bound :2048.2
+Y: 549 lower_y_bound: 532.2 upper_y_bound :565.8
+--------------
+Template width: 39 Template height: 43
+Index: 409
+X: 2032 lower_x_bound: 2016.8 upper_x_bound :2047.2
+Y: 550 lower_y_bound: 533.2 upper_y_bound :566.8
+--------------
+Template width: 39 Template height: 43
+Index: 410
+X: 2033 lower_x_bound: 2017.8 upper_x_bound :2048.2
+Y: 550 lower_y_bound: 533.2 upper_y_bound :566.8
+--------------
+Template width: 39 Template height: 43
+Index: 411
+X: 2034 lower_x_bound: 2018.8 upper_x_bound :2049.2
+Y: 550 lower_y_bound: 533.2 upper_y_bound :566.8
+--------------
+Template width: 39 Template height: 43
+Index: 412
+X: 2035 lower_x_bound: 2019.8 upper_x_bound :2050.2
+Y: 550 lower_y_bound: 533.2 upper_y_bound :566.8
+--------------
+Template width: 39 Template height: 43
+Index: 413
+X: 2032 lower_x_bound: 2016.8 upper_x_bound :2047.2
+Y: 551 lower_y_bound: 534.2 upper_y_bound :567.8
+--------------
+Template width: 39 Template height: 43
+Index: 414
+X: 2033 lower_x_bound: 2017.8 upper_x_bound :2048.2
+Y: 551 lower_y_bound: 534.2 upper_y_bound :567.8
+--------------
+Template width: 39 Template height: 43
+Index: 415
+X: 2034 lower_x_bound: 2018.8 upper_x_bound :2049.2
+Y: 551 lower_y_bound: 534.2 upper_y_bound :567.8
+--------------
+Template width: 39 Template height: 43
+Index: 416
+X: 2035 lower_x_bound: 2019.8 upper_x_bound :2050.2
+Y: 551 lower_y_bound: 534.2 upper_y_bound :567.8
+--------------
+Template width: 39 Template height: 43
+Index: 417
+X: 2032 lower_x_bound: 2016.8 upper_x_bound :2047.2
+Y: 552 lower_y_bound: 535.2 upper_y_bound :568.8
+--------------
+Template width: 39 Template height: 43
+Index: 418
+X: 2033 lower_x_bound: 2017.8 upper_x_bound :2048.2
+Y: 552 lower_y_bound: 535.2 upper_y_bound :568.8
+--------------
+Template width: 39 Template height: 43
+Index: 419
+X: 2034 lower_x_bound: 2018.8 upper_x_bound :2049.2
+Y: 552 lower_y_bound: 535.2 upper_y_bound :568.8
+--------------
+Template width: 39 Template height: 43
+Index: 420
+X: 2035 lower_x_bound: 2019.8 upper_x_bound :2050.2
+Y: 552 lower_y_bound: 535.2 upper_y_bound :568.8
+--------------
+Template width: 39 Template height: 43
+Index: 421
+X: 2033 lower_x_bound: 2017.8 upper_x_bound :2048.2
+Y: 553 lower_y_bound: 536.2 upper_y_bound :569.8
+--------------
+Template width: 39 Template height: 43
+Index: 422
+X: 1025 lower_x_bound: 1009.8 upper_x_bound :1040.2
+Y: 575 lower_y_bound: 558.2 upper_y_bound :591.8
+--------------
+Template width: 39 Template height: 43
+Index: 423
+X: 1026 lower_x_bound: 1010.8 upper_x_bound :1041.2
+Y: 575 lower_y_bound: 558.2 upper_y_bound :591.8
+--------------
+Template width: 39 Template height: 43
+Index: 424
+X: 1027 lower_x_bound: 1011.8 upper_x_bound :1042.2
+Y: 575 lower_y_bound: 558.2 upper_y_bound :591.8
+--------------
+Template width: 39 Template height: 43
+Index: 425
+X: 1024 lower_x_bound: 1008.8 upper_x_bound :1039.2
+Y: 576 lower_y_bound: 559.2 upper_y_bound :592.8
+--------------
+Template width: 39 Template height: 43
+Index: 426
+X: 1025 lower_x_bound: 1009.8 upper_x_bound :1040.2
+Y: 576 lower_y_bound: 559.2 upper_y_bound :592.8
+--------------
+Template width: 39 Template height: 43
+Index: 427
+X: 1026 lower_x_bound: 1010.8 upper_x_bound :1041.2
+Y: 576 lower_y_bound: 559.2 upper_y_bound :592.8
+--------------
+Template width: 39 Template height: 43
+Index: 428
+X: 1027 lower_x_bound: 1011.8 upper_x_bound :1042.2
+Y: 576 lower_y_bound: 559.2 upper_y_bound :592.8
+--------------
+Template width: 39 Template height: 43
+Index: 429
+X: 1028 lower_x_bound: 1012.8 upper_x_bound :1043.2
+Y: 576 lower_y_bound: 559.2 upper_y_bound :592.8
+--------------
+Template width: 39 Template height: 43
+Index: 430
+X: 1024 lower_x_bound: 1008.8 upper_x_bound :1039.2
+Y: 577 lower_y_bound: 560.2 upper_y_bound :593.8
+--------------
+Template width: 39 Template height: 43
+Index: 431
+X: 1025 lower_x_bound: 1009.8 upper_x_bound :1040.2
+Y: 577 lower_y_bound: 560.2 upper_y_bound :593.8
+--------------
+Template width: 39 Template height: 43
+Index: 432
+X: 1026 lower_x_bound: 1010.8 upper_x_bound :1041.2
+Y: 577 lower_y_bound: 560.2 upper_y_bound :593.8
+--------------
+Template width: 39 Template height: 43
+Index: 433
+X: 1027 lower_x_bound: 1011.8 upper_x_bound :1042.2
+Y: 577 lower_y_bound: 560.2 upper_y_bound :593.8
+--------------
+Template width: 39 Template height: 43
+Index: 434
+X: 1028 lower_x_bound: 1012.8 upper_x_bound :1043.2
+Y: 577 lower_y_bound: 560.2 upper_y_bound :593.8
+--------------
+Template width: 39 Template height: 43
+Index: 435
+X: 1024 lower_x_bound: 1008.8 upper_x_bound :1039.2
+Y: 578 lower_y_bound: 561.2 upper_y_bound :594.8
+--------------
+Template width: 39 Template height: 43
+Index: 436
+X: 1025 lower_x_bound: 1009.8 upper_x_bound :1040.2
+Y: 578 lower_y_bound: 561.2 upper_y_bound :594.8
+--------------
+Template width: 39 Template height: 43
+Index: 437
+X: 1026 lower_x_bound: 1010.8 upper_x_bound :1041.2
+Y: 578 lower_y_bound: 561.2 upper_y_bound :594.8
+--------------
+Template width: 39 Template height: 43
+Index: 438
+X: 1027 lower_x_bound: 1011.8 upper_x_bound :1042.2
+Y: 578 lower_y_bound: 561.2 upper_y_bound :594.8
+--------------
+Template width: 39 Template height: 43
+Index: 439
+X: 1028 lower_x_bound: 1012.8 upper_x_bound :1043.2
+Y: 578 lower_y_bound: 561.2 upper_y_bound :594.8
+--------------
+Template width: 39 Template height: 43
+Index: 440
+X: 963 lower_x_bound: 947.8 upper_x_bound :978.2
+Y: 579 lower_y_bound: 562.2 upper_y_bound :595.8
+--------------
+Template width: 39 Template height: 43
+Index: 441
+X: 964 lower_x_bound: 948.8 upper_x_bound :979.2
+Y: 579 lower_y_bound: 562.2 upper_y_bound :595.8
+--------------
+Template width: 39 Template height: 43
+Index: 442
+X: 965 lower_x_bound: 949.8 upper_x_bound :980.2
+Y: 579 lower_y_bound: 562.2 upper_y_bound :595.8
+--------------
+Template width: 39 Template height: 43
+Index: 443
+X: 1024 lower_x_bound: 1008.8 upper_x_bound :1039.2
+Y: 579 lower_y_bound: 562.2 upper_y_bound :595.8
+--------------
+Template width: 39 Template height: 43
+Index: 444
+X: 1025 lower_x_bound: 1009.8 upper_x_bound :1040.2
+Y: 579 lower_y_bound: 562.2 upper_y_bound :595.8
+--------------
+Template width: 39 Template height: 43
+Index: 445
+X: 1026 lower_x_bound: 1010.8 upper_x_bound :1041.2
+Y: 579 lower_y_bound: 562.2 upper_y_bound :595.8
+--------------
+Template width: 39 Template height: 43
+Index: 446
+X: 1027 lower_x_bound: 1011.8 upper_x_bound :1042.2
+Y: 579 lower_y_bound: 562.2 upper_y_bound :595.8
+--------------
+Template width: 39 Template height: 43
+Index: 447
+X: 961 lower_x_bound: 945.8 upper_x_bound :976.2
+Y: 580 lower_y_bound: 563.2 upper_y_bound :596.8
+--------------
+Template width: 39 Template height: 43
+Index: 448
+X: 962 lower_x_bound: 946.8 upper_x_bound :977.2
+Y: 580 lower_y_bound: 563.2 upper_y_bound :596.8
+--------------
+Template width: 39 Template height: 43
+Index: 449
+X: 963 lower_x_bound: 947.8 upper_x_bound :978.2
+Y: 580 lower_y_bound: 563.2 upper_y_bound :596.8
+--------------
+Template width: 39 Template height: 43
+Index: 450
+X: 964 lower_x_bound: 948.8 upper_x_bound :979.2
+Y: 580 lower_y_bound: 563.2 upper_y_bound :596.8
+--------------
+Template width: 39 Template height: 43
+Index: 451
+X: 965 lower_x_bound: 949.8 upper_x_bound :980.2
+Y: 580 lower_y_bound: 563.2 upper_y_bound :596.8
+--------------
+Template width: 39 Template height: 43
+Index: 452
+X: 966 lower_x_bound: 950.8 upper_x_bound :981.2
+Y: 580 lower_y_bound: 563.2 upper_y_bound :596.8
+--------------
+Template width: 39 Template height: 43
+Index: 453
+X: 961 lower_x_bound: 945.8 upper_x_bound :976.2
+Y: 581 lower_y_bound: 564.2 upper_y_bound :597.8
+--------------
+Template width: 39 Template height: 43
+Index: 454
+X: 962 lower_x_bound: 946.8 upper_x_bound :977.2
+Y: 581 lower_y_bound: 564.2 upper_y_bound :597.8
+--------------
+Template width: 39 Template height: 43
+Index: 455
+X: 963 lower_x_bound: 947.8 upper_x_bound :978.2
+Y: 581 lower_y_bound: 564.2 upper_y_bound :597.8
+--------------
+Template width: 39 Template height: 43
+Index: 456
+X: 964 lower_x_bound: 948.8 upper_x_bound :979.2
+Y: 581 lower_y_bound: 564.2 upper_y_bound :597.8
+--------------
+Template width: 39 Template height: 43
+Index: 457
+X: 965 lower_x_bound: 949.8 upper_x_bound :980.2
+Y: 581 lower_y_bound: 564.2 upper_y_bound :597.8
+--------------
+Template width: 39 Template height: 43
+Index: 458
+X: 966 lower_x_bound: 950.8 upper_x_bound :981.2
+Y: 581 lower_y_bound: 564.2 upper_y_bound :597.8
+--------------
+Template width: 39 Template height: 43
+Index: 459
+X: 961 lower_x_bound: 945.8 upper_x_bound :976.2
+Y: 582 lower_y_bound: 565.2 upper_y_bound :598.8
+--------------
+Template width: 39 Template height: 43
+Index: 460
+X: 962 lower_x_bound: 946.8 upper_x_bound :977.2
+Y: 582 lower_y_bound: 565.2 upper_y_bound :598.8
+--------------
+Template width: 39 Template height: 43
+Index: 461
+X: 963 lower_x_bound: 947.8 upper_x_bound :978.2
+Y: 582 lower_y_bound: 565.2 upper_y_bound :598.8
+--------------
+Template width: 39 Template height: 43
+Index: 462
+X: 964 lower_x_bound: 948.8 upper_x_bound :979.2
+Y: 582 lower_y_bound: 565.2 upper_y_bound :598.8
+--------------
+Template width: 39 Template height: 43
+Index: 463
+X: 965 lower_x_bound: 949.8 upper_x_bound :980.2
+Y: 582 lower_y_bound: 565.2 upper_y_bound :598.8
+--------------
+Template width: 39 Template height: 43
+Index: 464
+X: 962 lower_x_bound: 946.8 upper_x_bound :977.2
+Y: 583 lower_y_bound: 566.2 upper_y_bound :599.8
+--------------
+Template width: 39 Template height: 43
+Index: 465
+X: 963 lower_x_bound: 947.8 upper_x_bound :978.2
+Y: 583 lower_y_bound: 566.2 upper_y_bound :599.8
+--------------
+Template width: 39 Template height: 43
+Index: 466
+X: 964 lower_x_bound: 948.8 upper_x_bound :979.2
+Y: 583 lower_y_bound: 566.2 upper_y_bound :599.8
+--------------
+Template width: 39 Template height: 43
+Index: 467
+X: 2003 lower_x_bound: 1987.8 upper_x_bound :2018.2
+Y: 605 lower_y_bound: 588.2 upper_y_bound :621.8
+--------------
+Template width: 39 Template height: 43
+Index: 468
+X: 2004 lower_x_bound: 1988.8 upper_x_bound :2019.2
+Y: 605 lower_y_bound: 588.2 upper_y_bound :621.8
+--------------
+Template width: 39 Template height: 43
+Index: 469
+X: 2001 lower_x_bound: 1985.8 upper_x_bound :2016.2
+Y: 606 lower_y_bound: 589.2 upper_y_bound :622.8
+--------------
+Template width: 39 Template height: 43
+Index: 470
+X: 2002 lower_x_bound: 1986.8 upper_x_bound :2017.2
+Y: 606 lower_y_bound: 589.2 upper_y_bound :622.8
+--------------
+Template width: 39 Template height: 43
+Index: 471
+X: 2003 lower_x_bound: 1987.8 upper_x_bound :2018.2
+Y: 606 lower_y_bound: 589.2 upper_y_bound :622.8
+--------------
+Template width: 39 Template height: 43
+Index: 472
+X: 2004 lower_x_bound: 1988.8 upper_x_bound :2019.2
+Y: 606 lower_y_bound: 589.2 upper_y_bound :622.8
+--------------
+Template width: 39 Template height: 43
+Index: 473
+X: 2005 lower_x_bound: 1989.8 upper_x_bound :2020.2
+Y: 606 lower_y_bound: 589.2 upper_y_bound :622.8
+--------------
+Template width: 39 Template height: 43
+Index: 474
+X: 2001 lower_x_bound: 1985.8 upper_x_bound :2016.2
+Y: 607 lower_y_bound: 590.2 upper_y_bound :623.8
+--------------
+Template width: 39 Template height: 43
+Index: 475
+X: 2002 lower_x_bound: 1986.8 upper_x_bound :2017.2
+Y: 607 lower_y_bound: 590.2 upper_y_bound :623.8
+--------------
+Template width: 39 Template height: 43
+Index: 476
+X: 2003 lower_x_bound: 1987.8 upper_x_bound :2018.2
+Y: 607 lower_y_bound: 590.2 upper_y_bound :623.8
+--------------
+Template width: 39 Template height: 43
+Index: 477
+X: 2004 lower_x_bound: 1988.8 upper_x_bound :2019.2
+Y: 607 lower_y_bound: 590.2 upper_y_bound :623.8
+--------------
+Template width: 39 Template height: 43
+Index: 478
+X: 2005 lower_x_bound: 1989.8 upper_x_bound :2020.2
+Y: 607 lower_y_bound: 590.2 upper_y_bound :623.8
+--------------
+Template width: 39 Template height: 43
+Index: 479
+X: 2001 lower_x_bound: 1985.8 upper_x_bound :2016.2
+Y: 608 lower_y_bound: 591.2 upper_y_bound :624.8
+--------------
+Template width: 39 Template height: 43
+Index: 480
+X: 2002 lower_x_bound: 1986.8 upper_x_bound :2017.2
+Y: 608 lower_y_bound: 591.2 upper_y_bound :624.8
+--------------
+Template width: 39 Template height: 43
+Index: 481
+X: 2003 lower_x_bound: 1987.8 upper_x_bound :2018.2
+Y: 608 lower_y_bound: 591.2 upper_y_bound :624.8
+--------------
+Template width: 39 Template height: 43
+Index: 482
+X: 2004 lower_x_bound: 1988.8 upper_x_bound :2019.2
+Y: 608 lower_y_bound: 591.2 upper_y_bound :624.8
+--------------
+Template width: 39 Template height: 43
+Index: 483
+X: 2005 lower_x_bound: 1989.8 upper_x_bound :2020.2
+Y: 608 lower_y_bound: 591.2 upper_y_bound :624.8
+--------------
+Template width: 39 Template height: 43
+Index: 484
+X: 2001 lower_x_bound: 1985.8 upper_x_bound :2016.2
+Y: 609 lower_y_bound: 592.2 upper_y_bound :625.8
+--------------
+Template width: 39 Template height: 43
+Index: 485
+X: 2002 lower_x_bound: 1986.8 upper_x_bound :2017.2
+Y: 609 lower_y_bound: 592.2 upper_y_bound :625.8
+--------------
+Template width: 39 Template height: 43
+Index: 486
+X: 2003 lower_x_bound: 1987.8 upper_x_bound :2018.2
+Y: 609 lower_y_bound: 592.2 upper_y_bound :625.8
+--------------
+Template width: 39 Template height: 43
+Index: 487
+X: 1156 lower_x_bound: 1140.8 upper_x_bound :1171.2
+Y: 625 lower_y_bound: 608.2 upper_y_bound :641.8
+--------------
+Template width: 39 Template height: 43
+Index: 488
+X: 1154 lower_x_bound: 1138.8 upper_x_bound :1169.2
+Y: 626 lower_y_bound: 609.2 upper_y_bound :642.8
+--------------
+Template width: 39 Template height: 43
+Index: 489
+X: 1155 lower_x_bound: 1139.8 upper_x_bound :1170.2
+Y: 626 lower_y_bound: 609.2 upper_y_bound :642.8
+--------------
+Template width: 39 Template height: 43
+Index: 490
+X: 1156 lower_x_bound: 1140.8 upper_x_bound :1171.2
+Y: 626 lower_y_bound: 609.2 upper_y_bound :642.8
+--------------
+Template width: 39 Template height: 43
+Index: 491
+X: 1157 lower_x_bound: 1141.8 upper_x_bound :1172.2
+Y: 626 lower_y_bound: 609.2 upper_y_bound :642.8
+--------------
+Template width: 39 Template height: 43
+Index: 492
+X: 1153 lower_x_bound: 1137.8 upper_x_bound :1168.2
+Y: 627 lower_y_bound: 610.2 upper_y_bound :643.8
+--------------
+Template width: 39 Template height: 43
+Index: 493
+X: 1154 lower_x_bound: 1138.8 upper_x_bound :1169.2
+Y: 627 lower_y_bound: 610.2 upper_y_bound :643.8
+--------------
+Template width: 39 Template height: 43
+Index: 494
+X: 1155 lower_x_bound: 1139.8 upper_x_bound :1170.2
+Y: 627 lower_y_bound: 610.2 upper_y_bound :643.8
+--------------
+Template width: 39 Template height: 43
+Index: 495
+X: 1156 lower_x_bound: 1140.8 upper_x_bound :1171.2
+Y: 627 lower_y_bound: 610.2 upper_y_bound :643.8
+--------------
+Template width: 39 Template height: 43
+Index: 496
+X: 1157 lower_x_bound: 1141.8 upper_x_bound :1172.2
+Y: 627 lower_y_bound: 610.2 upper_y_bound :643.8
+--------------
+Template width: 39 Template height: 43
+Index: 497
+X: 1154 lower_x_bound: 1138.8 upper_x_bound :1169.2
+Y: 628 lower_y_bound: 611.2 upper_y_bound :644.8
+--------------
+Template width: 39 Template height: 43
+Index: 498
+X: 1155 lower_x_bound: 1139.8 upper_x_bound :1170.2
+Y: 628 lower_y_bound: 611.2 upper_y_bound :644.8
+--------------
+Template width: 39 Template height: 43
+Index: 499
+X: 1156 lower_x_bound: 1140.8 upper_x_bound :1171.2
+Y: 628 lower_y_bound: 611.2 upper_y_bound :644.8
+--------------
+Template width: 39 Template height: 43
+Index: 500
+X: 1978 lower_x_bound: 1962.8 upper_x_bound :1993.2
+Y: 642 lower_y_bound: 625.2 upper_y_bound :658.8
+--------------
+Template width: 39 Template height: 43
+Index: 501
+X: 1979 lower_x_bound: 1963.8 upper_x_bound :1994.2
+Y: 642 lower_y_bound: 625.2 upper_y_bound :658.8
+--------------
+Template width: 39 Template height: 43
+Index: 502
+X: 1977 lower_x_bound: 1961.8 upper_x_bound :1992.2
+Y: 643 lower_y_bound: 626.2 upper_y_bound :659.8
+--------------
+Template width: 39 Template height: 43
+Index: 503
+X: 1978 lower_x_bound: 1962.8 upper_x_bound :1993.2
+Y: 643 lower_y_bound: 626.2 upper_y_bound :659.8
+--------------
+Template width: 39 Template height: 43
+Index: 504
+X: 1979 lower_x_bound: 1963.8 upper_x_bound :1994.2
+Y: 643 lower_y_bound: 626.2 upper_y_bound :659.8
+--------------
+Template width: 39 Template height: 43
+Index: 505
+X: 1980 lower_x_bound: 1964.8 upper_x_bound :1995.2
+Y: 643 lower_y_bound: 626.2 upper_y_bound :659.8
+--------------
+Template width: 39 Template height: 43
+Index: 506
+X: 1976 lower_x_bound: 1960.8 upper_x_bound :1991.2
+Y: 644 lower_y_bound: 627.2 upper_y_bound :660.8
+--------------
+Template width: 39 Template height: 43
+Index: 507
+X: 1977 lower_x_bound: 1961.8 upper_x_bound :1992.2
+Y: 644 lower_y_bound: 627.2 upper_y_bound :660.8
+--------------
+Template width: 39 Template height: 43
+Index: 508
+X: 1978 lower_x_bound: 1962.8 upper_x_bound :1993.2
+Y: 644 lower_y_bound: 627.2 upper_y_bound :660.8
+--------------
+Template width: 39 Template height: 43
+Index: 509
+X: 1979 lower_x_bound: 1963.8 upper_x_bound :1994.2
+Y: 644 lower_y_bound: 627.2 upper_y_bound :660.8
+--------------
+Template width: 39 Template height: 43
+Index: 510
+X: 1980 lower_x_bound: 1964.8 upper_x_bound :1995.2
+Y: 644 lower_y_bound: 627.2 upper_y_bound :660.8
+--------------
+Template width: 39 Template height: 43
+Index: 511
+X: 1976 lower_x_bound: 1960.8 upper_x_bound :1991.2
+Y: 645 lower_y_bound: 628.2 upper_y_bound :661.8
+--------------
+Template width: 39 Template height: 43
+Index: 512
+X: 1977 lower_x_bound: 1961.8 upper_x_bound :1992.2
+Y: 645 lower_y_bound: 628.2 upper_y_bound :661.8
+--------------
+Template width: 39 Template height: 43
+Index: 513
+X: 1978 lower_x_bound: 1962.8 upper_x_bound :1993.2
+Y: 645 lower_y_bound: 628.2 upper_y_bound :661.8
+--------------
+Template width: 39 Template height: 43
+Index: 514
+X: 1979 lower_x_bound: 1963.8 upper_x_bound :1994.2
+Y: 645 lower_y_bound: 628.2 upper_y_bound :661.8
+--------------
+Template width: 39 Template height: 43
+Index: 515
+X: 1980 lower_x_bound: 1964.8 upper_x_bound :1995.2
+Y: 645 lower_y_bound: 628.2 upper_y_bound :661.8
+--------------
+Template width: 39 Template height: 43
+Index: 516
+X: 1981 lower_x_bound: 1965.8 upper_x_bound :1996.2
+Y: 645 lower_y_bound: 628.2 upper_y_bound :661.8
+--------------
+Template width: 39 Template height: 43
+Index: 517
+X: 1976 lower_x_bound: 1960.8 upper_x_bound :1991.2
+Y: 646 lower_y_bound: 629.2 upper_y_bound :662.8
+--------------
+Template width: 39 Template height: 43
+Index: 518
+X: 1977 lower_x_bound: 1961.8 upper_x_bound :1992.2
+Y: 646 lower_y_bound: 629.2 upper_y_bound :662.8
+--------------
+Template width: 39 Template height: 43
+Index: 519
+X: 1978 lower_x_bound: 1962.8 upper_x_bound :1993.2
+Y: 646 lower_y_bound: 629.2 upper_y_bound :662.8
+--------------
+Template width: 39 Template height: 43
+Index: 520
+X: 1979 lower_x_bound: 1963.8 upper_x_bound :1994.2
+Y: 646 lower_y_bound: 629.2 upper_y_bound :662.8
+--------------
+Template width: 39 Template height: 43
+Index: 521
+X: 1980 lower_x_bound: 1964.8 upper_x_bound :1995.2
+Y: 646 lower_y_bound: 629.2 upper_y_bound :662.8
+--------------
+Template width: 39 Template height: 43
+Index: 522
+X: 1977 lower_x_bound: 1961.8 upper_x_bound :1992.2
+Y: 647 lower_y_bound: 630.2 upper_y_bound :663.8
+--------------
+Template width: 39 Template height: 43
+Index: 523
+X: 1978 lower_x_bound: 1962.8 upper_x_bound :1993.2
+Y: 647 lower_y_bound: 630.2 upper_y_bound :663.8
+--------------
+Template width: 39 Template height: 43
+Index: 524
+X: 1944 lower_x_bound: 1928.8 upper_x_bound :1959.2
+Y: 709 lower_y_bound: 692.2 upper_y_bound :725.8
+--------------
+Template width: 39 Template height: 43
+Index: 525
+X: 1945 lower_x_bound: 1929.8 upper_x_bound :1960.2
+Y: 709 lower_y_bound: 692.2 upper_y_bound :725.8
+--------------
+Template width: 39 Template height: 43
+Index: 526
+X: 1946 lower_x_bound: 1930.8 upper_x_bound :1961.2
+Y: 709 lower_y_bound: 692.2 upper_y_bound :725.8
+--------------
+Template width: 39 Template height: 43
+Index: 527
+X: 1947 lower_x_bound: 1931.8 upper_x_bound :1962.2
+Y: 709 lower_y_bound: 692.2 upper_y_bound :725.8
+--------------
+Template width: 39 Template height: 43
+Index: 528
+X: 1943 lower_x_bound: 1927.8 upper_x_bound :1958.2
+Y: 710 lower_y_bound: 693.2 upper_y_bound :726.8
+--------------
+Template width: 39 Template height: 43
+Index: 529
+X: 1944 lower_x_bound: 1928.8 upper_x_bound :1959.2
+Y: 710 lower_y_bound: 693.2 upper_y_bound :726.8
+--------------
+Template width: 39 Template height: 43
+Index: 530
+X: 1945 lower_x_bound: 1929.8 upper_x_bound :1960.2
+Y: 710 lower_y_bound: 693.2 upper_y_bound :726.8
+--------------
+Template width: 39 Template height: 43
+Index: 531
+X: 1946 lower_x_bound: 1930.8 upper_x_bound :1961.2
+Y: 710 lower_y_bound: 693.2 upper_y_bound :726.8
+--------------
+Template width: 39 Template height: 43
+Index: 532
+X: 1947 lower_x_bound: 1931.8 upper_x_bound :1962.2
+Y: 710 lower_y_bound: 693.2 upper_y_bound :726.8
+--------------
+Template width: 39 Template height: 43
+Index: 533
+X: 1943 lower_x_bound: 1927.8 upper_x_bound :1958.2
+Y: 711 lower_y_bound: 694.2 upper_y_bound :727.8
+--------------
+Template width: 39 Template height: 43
+Index: 534
+X: 1944 lower_x_bound: 1928.8 upper_x_bound :1959.2
+Y: 711 lower_y_bound: 694.2 upper_y_bound :727.8
+--------------
+Template width: 39 Template height: 43
+Index: 535
+X: 1945 lower_x_bound: 1929.8 upper_x_bound :1960.2
+Y: 711 lower_y_bound: 694.2 upper_y_bound :727.8
+--------------
+Template width: 39 Template height: 43
+Index: 536
+X: 1946 lower_x_bound: 1930.8 upper_x_bound :1961.2
+Y: 711 lower_y_bound: 694.2 upper_y_bound :727.8
+--------------
+Template width: 39 Template height: 43
+Index: 537
+X: 1947 lower_x_bound: 1931.8 upper_x_bound :1962.2
+Y: 711 lower_y_bound: 694.2 upper_y_bound :727.8
+--------------
+Template width: 39 Template height: 43
+Index: 538
+X: 1943 lower_x_bound: 1927.8 upper_x_bound :1958.2
+Y: 712 lower_y_bound: 695.2 upper_y_bound :728.8
+--------------
+Template width: 39 Template height: 43
+Index: 539
+X: 1944 lower_x_bound: 1928.8 upper_x_bound :1959.2
+Y: 712 lower_y_bound: 695.2 upper_y_bound :728.8
+--------------
+Template width: 39 Template height: 43
+Index: 540
+X: 1945 lower_x_bound: 1929.8 upper_x_bound :1960.2
+Y: 712 lower_y_bound: 695.2 upper_y_bound :728.8
+--------------
+Template width: 39 Template height: 43
+Index: 541
+X: 1946 lower_x_bound: 1930.8 upper_x_bound :1961.2
+Y: 712 lower_y_bound: 695.2 upper_y_bound :728.8
+--------------
+Template width: 39 Template height: 43
+Index: 542
+X: 1915 lower_x_bound: 1899.8 upper_x_bound :1930.2
+Y: 756 lower_y_bound: 739.2 upper_y_bound :772.8
+--------------
+Template width: 39 Template height: 43
+Index: 543
+X: 1913 lower_x_bound: 1897.8 upper_x_bound :1928.2
+Y: 757 lower_y_bound: 740.2 upper_y_bound :773.8
+--------------
+Template width: 39 Template height: 43
+Index: 544
+X: 1914 lower_x_bound: 1898.8 upper_x_bound :1929.2
+Y: 757 lower_y_bound: 740.2 upper_y_bound :773.8
+--------------
+Template width: 39 Template height: 43
+Index: 545
+X: 1915 lower_x_bound: 1899.8 upper_x_bound :1930.2
+Y: 757 lower_y_bound: 740.2 upper_y_bound :773.8
+--------------
+Template width: 39 Template height: 43
+Index: 546
+X: 1916 lower_x_bound: 1900.8 upper_x_bound :1931.2
+Y: 757 lower_y_bound: 740.2 upper_y_bound :773.8
+--------------
+Template width: 39 Template height: 43
+Index: 547
+X: 1912 lower_x_bound: 1896.8 upper_x_bound :1927.2
+Y: 758 lower_y_bound: 741.2 upper_y_bound :774.8
+--------------
+Template width: 39 Template height: 43
+Index: 548
+X: 1913 lower_x_bound: 1897.8 upper_x_bound :1928.2
+Y: 758 lower_y_bound: 741.2 upper_y_bound :774.8
+--------------
+Template width: 39 Template height: 43
+Index: 549
+X: 1914 lower_x_bound: 1898.8 upper_x_bound :1929.2
+Y: 758 lower_y_bound: 741.2 upper_y_bound :774.8
+--------------
+Template width: 39 Template height: 43
+Index: 550
+X: 1915 lower_x_bound: 1899.8 upper_x_bound :1930.2
+Y: 758 lower_y_bound: 741.2 upper_y_bound :774.8
+--------------
+Template width: 39 Template height: 43
+Index: 551
+X: 1916 lower_x_bound: 1900.8 upper_x_bound :1931.2
+Y: 758 lower_y_bound: 741.2 upper_y_bound :774.8
+--------------
+Template width: 39 Template height: 43
+Index: 552
+X: 1912 lower_x_bound: 1896.8 upper_x_bound :1927.2
+Y: 759 lower_y_bound: 742.2 upper_y_bound :775.8
+--------------
+Template width: 39 Template height: 43
+Index: 553
+X: 1913 lower_x_bound: 1897.8 upper_x_bound :1928.2
+Y: 759 lower_y_bound: 742.2 upper_y_bound :775.8
+--------------
+Template width: 39 Template height: 43
+Index: 554
+X: 1914 lower_x_bound: 1898.8 upper_x_bound :1929.2
+Y: 759 lower_y_bound: 742.2 upper_y_bound :775.8
+--------------
+Template width: 39 Template height: 43
+Index: 555
+X: 1915 lower_x_bound: 1899.8 upper_x_bound :1930.2
+Y: 759 lower_y_bound: 742.2 upper_y_bound :775.8
+--------------
+Template width: 39 Template height: 43
+Index: 556
+X: 1916 lower_x_bound: 1900.8 upper_x_bound :1931.2
+Y: 759 lower_y_bound: 742.2 upper_y_bound :775.8
+--------------
+Template width: 39 Template height: 43
+Index: 557
+X: 1913 lower_x_bound: 1897.8 upper_x_bound :1928.2
+Y: 760 lower_y_bound: 743.2 upper_y_bound :776.8
+--------------
+Template width: 39 Template height: 43
+Index: 558
+X: 1914 lower_x_bound: 1898.8 upper_x_bound :1929.2
+Y: 760 lower_y_bound: 743.2 upper_y_bound :776.8
+--------------
+Template width: 39 Template height: 43
+Index: 559
+X: 1915 lower_x_bound: 1899.8 upper_x_bound :1930.2
+Y: 760 lower_y_bound: 743.2 upper_y_bound :776.8
+--------------
+Template width: 39 Template height: 43
+Index: 560
+X: 1877 lower_x_bound: 1861.8 upper_x_bound :1892.2
+Y: 790 lower_y_bound: 773.2 upper_y_bound :806.8
+--------------
+Template width: 39 Template height: 43
+Index: 561
+X: 1878 lower_x_bound: 1862.8 upper_x_bound :1893.2
+Y: 790 lower_y_bound: 773.2 upper_y_bound :806.8
+--------------
+Template width: 39 Template height: 43
+Index: 562
+X: 1879 lower_x_bound: 1863.8 upper_x_bound :1894.2
+Y: 790 lower_y_bound: 773.2 upper_y_bound :806.8
+--------------
+Template width: 39 Template height: 43
+Index: 563
+X: 1875 lower_x_bound: 1859.8 upper_x_bound :1890.2
+Y: 791 lower_y_bound: 774.2 upper_y_bound :807.8
+--------------
+Template width: 39 Template height: 43
+Index: 564
+X: 1876 lower_x_bound: 1860.8 upper_x_bound :1891.2
+Y: 791 lower_y_bound: 774.2 upper_y_bound :807.8
+--------------
+Template width: 39 Template height: 43
+Index: 565
+X: 1877 lower_x_bound: 1861.8 upper_x_bound :1892.2
+Y: 791 lower_y_bound: 774.2 upper_y_bound :807.8
+--------------
+Template width: 39 Template height: 43
+Index: 566
+X: 1878 lower_x_bound: 1862.8 upper_x_bound :1893.2
+Y: 791 lower_y_bound: 774.2 upper_y_bound :807.8
+--------------
+Template width: 39 Template height: 43
+Index: 567
+X: 1879 lower_x_bound: 1863.8 upper_x_bound :1894.2
+Y: 791 lower_y_bound: 774.2 upper_y_bound :807.8
+--------------
+Template width: 39 Template height: 43
+Index: 568
+X: 1880 lower_x_bound: 1864.8 upper_x_bound :1895.2
+Y: 791 lower_y_bound: 774.2 upper_y_bound :807.8
+--------------
+Template width: 39 Template height: 43
+Index: 569
+X: 1875 lower_x_bound: 1859.8 upper_x_bound :1890.2
+Y: 792 lower_y_bound: 775.2 upper_y_bound :808.8
+--------------
+Template width: 39 Template height: 43
+Index: 570
+X: 1876 lower_x_bound: 1860.8 upper_x_bound :1891.2
+Y: 792 lower_y_bound: 775.2 upper_y_bound :808.8
+--------------
+Template width: 39 Template height: 43
+Index: 571
+X: 1877 lower_x_bound: 1861.8 upper_x_bound :1892.2
+Y: 792 lower_y_bound: 775.2 upper_y_bound :808.8
+--------------
+Template width: 39 Template height: 43
+Index: 572
+X: 1878 lower_x_bound: 1862.8 upper_x_bound :1893.2
+Y: 792 lower_y_bound: 775.2 upper_y_bound :808.8
+--------------
+Template width: 39 Template height: 43
+Index: 573
+X: 1879 lower_x_bound: 1863.8 upper_x_bound :1894.2
+Y: 792 lower_y_bound: 775.2 upper_y_bound :808.8
+--------------
+Template width: 39 Template height: 43
+Index: 574
+X: 1880 lower_x_bound: 1864.8 upper_x_bound :1895.2
+Y: 792 lower_y_bound: 775.2 upper_y_bound :808.8
+--------------
+Template width: 39 Template height: 43
+Index: 575
+X: 1875 lower_x_bound: 1859.8 upper_x_bound :1890.2
+Y: 793 lower_y_bound: 776.2 upper_y_bound :809.8
+--------------
+Template width: 39 Template height: 43
+Index: 576
+X: 1876 lower_x_bound: 1860.8 upper_x_bound :1891.2
+Y: 793 lower_y_bound: 776.2 upper_y_bound :809.8
+--------------
+Template width: 39 Template height: 43
+Index: 577
+X: 1877 lower_x_bound: 1861.8 upper_x_bound :1892.2
+Y: 793 lower_y_bound: 776.2 upper_y_bound :809.8
+--------------
+Template width: 39 Template height: 43
+Index: 578
+X: 1878 lower_x_bound: 1862.8 upper_x_bound :1893.2
+Y: 793 lower_y_bound: 776.2 upper_y_bound :809.8
+--------------
+Template width: 39 Template height: 43
+Index: 579
+X: 1879 lower_x_bound: 1863.8 upper_x_bound :1894.2
+Y: 793 lower_y_bound: 776.2 upper_y_bound :809.8
+--------------
+Template width: 39 Template height: 43
+Index: 580
+X: 1876 lower_x_bound: 1860.8 upper_x_bound :1891.2
+Y: 794 lower_y_bound: 777.2 upper_y_bound :810.8
+--------------
+Template width: 39 Template height: 43
+Index: 581
+X: 1877 lower_x_bound: 1861.8 upper_x_bound :1892.2
+Y: 794 lower_y_bound: 777.2 upper_y_bound :810.8
+--------------
+Template width: 39 Template height: 43
+Index: 582
+X: 1878 lower_x_bound: 1862.8 upper_x_bound :1893.2
+Y: 794 lower_y_bound: 777.2 upper_y_bound :810.8
+--------------
+Template width: 39 Template height: 43
+Index: 583
+X: 1855 lower_x_bound: 1839.8 upper_x_bound :1870.2
+Y: 826 lower_y_bound: 809.2 upper_y_bound :842.8
+--------------
+Template width: 39 Template height: 43
+Index: 584
+X: 1856 lower_x_bound: 1840.8 upper_x_bound :1871.2
+Y: 826 lower_y_bound: 809.2 upper_y_bound :842.8
+--------------
+Template width: 39 Template height: 43
+Index: 585
+X: 1854 lower_x_bound: 1838.8 upper_x_bound :1869.2
+Y: 827 lower_y_bound: 810.2 upper_y_bound :843.8
+--------------
+Template width: 39 Template height: 43
+Index: 586
+X: 1855 lower_x_bound: 1839.8 upper_x_bound :1870.2
+Y: 827 lower_y_bound: 810.2 upper_y_bound :843.8
+--------------
+Template width: 39 Template height: 43
+Index: 587
+X: 1856 lower_x_bound: 1840.8 upper_x_bound :1871.2
+Y: 827 lower_y_bound: 810.2 upper_y_bound :843.8
+--------------
+Template width: 39 Template height: 43
+Index: 588
+X: 1857 lower_x_bound: 1841.8 upper_x_bound :1872.2
+Y: 827 lower_y_bound: 810.2 upper_y_bound :843.8
+--------------
+Template width: 39 Template height: 43
+Index: 589
+X: 1853 lower_x_bound: 1837.8 upper_x_bound :1868.2
+Y: 828 lower_y_bound: 811.2 upper_y_bound :844.8
+--------------
+Template width: 39 Template height: 43
+Index: 590
+X: 1854 lower_x_bound: 1838.8 upper_x_bound :1869.2
+Y: 828 lower_y_bound: 811.2 upper_y_bound :844.8
+--------------
+Template width: 39 Template height: 43
+Index: 591
+X: 1855 lower_x_bound: 1839.8 upper_x_bound :1870.2
+Y: 828 lower_y_bound: 811.2 upper_y_bound :844.8
+--------------
+Template width: 39 Template height: 43
+Index: 592
+X: 1856 lower_x_bound: 1840.8 upper_x_bound :1871.2
+Y: 828 lower_y_bound: 811.2 upper_y_bound :844.8
+--------------
+Template width: 39 Template height: 43
+Index: 593
+X: 1857 lower_x_bound: 1841.8 upper_x_bound :1872.2
+Y: 828 lower_y_bound: 811.2 upper_y_bound :844.8
+--------------
+Template width: 39 Template height: 43
+Index: 594
+X: 1858 lower_x_bound: 1842.8 upper_x_bound :1873.2
+Y: 828 lower_y_bound: 811.2 upper_y_bound :844.8
+--------------
+Template width: 39 Template height: 43
+Index: 595
+X: 1853 lower_x_bound: 1837.8 upper_x_bound :1868.2
+Y: 829 lower_y_bound: 812.2 upper_y_bound :845.8
+--------------
+Template width: 39 Template height: 43
+Index: 596
+X: 1854 lower_x_bound: 1838.8 upper_x_bound :1869.2
+Y: 829 lower_y_bound: 812.2 upper_y_bound :845.8
+--------------
+Template width: 39 Template height: 43
+Index: 597
+X: 1855 lower_x_bound: 1839.8 upper_x_bound :1870.2
+Y: 829 lower_y_bound: 812.2 upper_y_bound :845.8
+--------------
+Template width: 39 Template height: 43
+Index: 598
+X: 1856 lower_x_bound: 1840.8 upper_x_bound :1871.2
+Y: 829 lower_y_bound: 812.2 upper_y_bound :845.8
+--------------
+Template width: 39 Template height: 43
+Index: 599
+X: 1857 lower_x_bound: 1841.8 upper_x_bound :1872.2
+Y: 829 lower_y_bound: 812.2 upper_y_bound :845.8
+--------------
+Template width: 39 Template height: 43
+Index: 600
+X: 1858 lower_x_bound: 1842.8 upper_x_bound :1873.2
+Y: 829 lower_y_bound: 812.2 upper_y_bound :845.8
+--------------
+Template width: 39 Template height: 43
+Index: 601
+X: 1854 lower_x_bound: 1838.8 upper_x_bound :1869.2
+Y: 830 lower_y_bound: 813.2 upper_y_bound :846.8
+--------------
+Template width: 39 Template height: 43
+Index: 602
+X: 1855 lower_x_bound: 1839.8 upper_x_bound :1870.2
+Y: 830 lower_y_bound: 813.2 upper_y_bound :846.8
+--------------
+Template width: 39 Template height: 43
+Index: 603
+X: 1856 lower_x_bound: 1840.8 upper_x_bound :1871.2
+Y: 830 lower_y_bound: 813.2 upper_y_bound :846.8
+--------------
+Template width: 39 Template height: 43
+Index: 604
+X: 1857 lower_x_bound: 1841.8 upper_x_bound :1872.2
+Y: 830 lower_y_bound: 813.2 upper_y_bound :846.8
+--------------
+Template width: 39 Template height: 43
+Index: 605
+X: 1838 lower_x_bound: 1822.8 upper_x_bound :1853.2
+Y: 949 lower_y_bound: 932.2 upper_y_bound :965.8
+--------------
+Template width: 39 Template height: 43
+Index: 606
+X: 1839 lower_x_bound: 1823.8 upper_x_bound :1854.2
+Y: 949 lower_y_bound: 932.2 upper_y_bound :965.8
+--------------
+Template width: 39 Template height: 43
+Index: 607
+X: 1836 lower_x_bound: 1820.8 upper_x_bound :1851.2
+Y: 950 lower_y_bound: 933.2 upper_y_bound :966.8
+--------------
+Template width: 39 Template height: 43
+Index: 608
+X: 1837 lower_x_bound: 1821.8 upper_x_bound :1852.2
+Y: 950 lower_y_bound: 933.2 upper_y_bound :966.8
+--------------
+Template width: 39 Template height: 43
+Index: 609
+X: 1838 lower_x_bound: 1822.8 upper_x_bound :1853.2
+Y: 950 lower_y_bound: 933.2 upper_y_bound :966.8
+--------------
+Template width: 39 Template height: 43
+Index: 610
+X: 1839 lower_x_bound: 1823.8 upper_x_bound :1854.2
+Y: 950 lower_y_bound: 933.2 upper_y_bound :966.8
+--------------
+Template width: 39 Template height: 43
+Index: 611
+X: 1840 lower_x_bound: 1824.8 upper_x_bound :1855.2
+Y: 950 lower_y_bound: 933.2 upper_y_bound :966.8
+--------------
+Template width: 39 Template height: 43
+Index: 612
+X: 1836 lower_x_bound: 1820.8 upper_x_bound :1851.2
+Y: 951 lower_y_bound: 934.2 upper_y_bound :967.8
+--------------
+Template width: 39 Template height: 43
+Index: 613
+X: 1837 lower_x_bound: 1821.8 upper_x_bound :1852.2
+Y: 951 lower_y_bound: 934.2 upper_y_bound :967.8
+--------------
+Template width: 39 Template height: 43
+Index: 614
+X: 1838 lower_x_bound: 1822.8 upper_x_bound :1853.2
+Y: 951 lower_y_bound: 934.2 upper_y_bound :967.8
+--------------
+Template width: 39 Template height: 43
+Index: 615
+X: 1839 lower_x_bound: 1823.8 upper_x_bound :1854.2
+Y: 951 lower_y_bound: 934.2 upper_y_bound :967.8
+--------------
+Template width: 39 Template height: 43
+Index: 616
+X: 1840 lower_x_bound: 1824.8 upper_x_bound :1855.2
+Y: 951 lower_y_bound: 934.2 upper_y_bound :967.8
+--------------
+Template width: 39 Template height: 43
+Index: 617
+X: 1836 lower_x_bound: 1820.8 upper_x_bound :1851.2
+Y: 952 lower_y_bound: 935.2 upper_y_bound :968.8
+--------------
+Template width: 39 Template height: 43
+Index: 618
+X: 1837 lower_x_bound: 1821.8 upper_x_bound :1852.2
+Y: 952 lower_y_bound: 935.2 upper_y_bound :968.8
+--------------
+Template width: 39 Template height: 43
+Index: 619
+X: 1838 lower_x_bound: 1822.8 upper_x_bound :1853.2
+Y: 952 lower_y_bound: 935.2 upper_y_bound :968.8
+--------------
+Template width: 39 Template height: 43
+Index: 620
+X: 1839 lower_x_bound: 1823.8 upper_x_bound :1854.2
+Y: 952 lower_y_bound: 935.2 upper_y_bound :968.8
+--------------
+Template width: 39 Template height: 43
+Index: 621
+X: 1840 lower_x_bound: 1824.8 upper_x_bound :1855.2
+Y: 952 lower_y_bound: 935.2 upper_y_bound :968.8
+--------------
+Template width: 39 Template height: 43
+Index: 622
+X: 1837 lower_x_bound: 1821.8 upper_x_bound :1852.2
+Y: 953 lower_y_bound: 936.2 upper_y_bound :969.8
+--------------
+Template width: 39 Template height: 43
+Index: 623
+X: 1838 lower_x_bound: 1822.8 upper_x_bound :1853.2
+Y: 953 lower_y_bound: 936.2 upper_y_bound :969.8
+--------------
+Template width: 39 Template height: 43
+Index: 624
+X: 1378 lower_x_bound: 1362.8 upper_x_bound :1393.2
+Y: 981 lower_y_bound: 964.2 upper_y_bound :997.8
+--------------
+Template width: 39 Template height: 43
+Index: 625
+X: 1379 lower_x_bound: 1363.8 upper_x_bound :1394.2
+Y: 981 lower_y_bound: 964.2 upper_y_bound :997.8
+--------------
+Template width: 39 Template height: 43
+Index: 626
+X: 1380 lower_x_bound: 1364.8 upper_x_bound :1395.2
+Y: 981 lower_y_bound: 964.2 upper_y_bound :997.8
+--------------
+Template width: 39 Template height: 43
+Index: 627
+X: 1377 lower_x_bound: 1361.8 upper_x_bound :1392.2
+Y: 982 lower_y_bound: 965.2 upper_y_bound :998.8
+--------------
+Template width: 39 Template height: 43
+Index: 628
+X: 1378 lower_x_bound: 1362.8 upper_x_bound :1393.2
+Y: 982 lower_y_bound: 965.2 upper_y_bound :998.8
+--------------
+Template width: 39 Template height: 43
+Index: 629
+X: 1379 lower_x_bound: 1363.8 upper_x_bound :1394.2
+Y: 982 lower_y_bound: 965.2 upper_y_bound :998.8
+--------------
+Template width: 39 Template height: 43
+Index: 630
+X: 1380 lower_x_bound: 1364.8 upper_x_bound :1395.2
+Y: 982 lower_y_bound: 965.2 upper_y_bound :998.8
+--------------
+Template width: 39 Template height: 43
+Index: 631
+X: 1381 lower_x_bound: 1365.8 upper_x_bound :1396.2
+Y: 982 lower_y_bound: 965.2 upper_y_bound :998.8
+--------------
+Template width: 39 Template height: 43
+Index: 632
+X: 1376 lower_x_bound: 1360.8 upper_x_bound :1391.2
+Y: 983 lower_y_bound: 966.2 upper_y_bound :999.8
+--------------
+Template width: 39 Template height: 43
+Index: 633
+X: 1377 lower_x_bound: 1361.8 upper_x_bound :1392.2
+Y: 983 lower_y_bound: 966.2 upper_y_bound :999.8
+--------------
+Template width: 39 Template height: 43
+Index: 634
+X: 1378 lower_x_bound: 1362.8 upper_x_bound :1393.2
+Y: 983 lower_y_bound: 966.2 upper_y_bound :999.8
+--------------
+Template width: 39 Template height: 43
+Index: 635
+X: 1379 lower_x_bound: 1363.8 upper_x_bound :1394.2
+Y: 983 lower_y_bound: 966.2 upper_y_bound :999.8
+--------------
+Template width: 39 Template height: 43
+Index: 636
+X: 1380 lower_x_bound: 1364.8 upper_x_bound :1395.2
+Y: 983 lower_y_bound: 966.2 upper_y_bound :999.8
+--------------
+Template width: 39 Template height: 43
+Index: 637
+X: 1381 lower_x_bound: 1365.8 upper_x_bound :1396.2
+Y: 983 lower_y_bound: 966.2 upper_y_bound :999.8
+--------------
+Template width: 39 Template height: 43
+Index: 638
+X: 1376 lower_x_bound: 1360.8 upper_x_bound :1391.2
+Y: 984 lower_y_bound: 967.2 upper_y_bound :1000.8
+--------------
+Template width: 39 Template height: 43
+Index: 639
+X: 1377 lower_x_bound: 1361.8 upper_x_bound :1392.2
+Y: 984 lower_y_bound: 967.2 upper_y_bound :1000.8
+--------------
+Template width: 39 Template height: 43
+Index: 640
+X: 1378 lower_x_bound: 1362.8 upper_x_bound :1393.2
+Y: 984 lower_y_bound: 967.2 upper_y_bound :1000.8
+--------------
+Template width: 39 Template height: 43
+Index: 641
+X: 1379 lower_x_bound: 1363.8 upper_x_bound :1394.2
+Y: 984 lower_y_bound: 967.2 upper_y_bound :1000.8
+--------------
+Template width: 39 Template height: 43
+Index: 642
+X: 1380 lower_x_bound: 1364.8 upper_x_bound :1395.2
+Y: 984 lower_y_bound: 967.2 upper_y_bound :1000.8
+--------------
+Template width: 39 Template height: 43
+Index: 643
+X: 1378 lower_x_bound: 1362.8 upper_x_bound :1393.2
+Y: 985 lower_y_bound: 968.2 upper_y_bound :1001.8
+--------------
+Template width: 39 Template height: 43
+Index: 644
+X: 1893 lower_x_bound: 1877.8 upper_x_bound :1908.2
+Y: 992 lower_y_bound: 975.2 upper_y_bound :1008.8
+--------------
+Template width: 39 Template height: 43
+Index: 645
+X: 1894 lower_x_bound: 1878.8 upper_x_bound :1909.2
+Y: 992 lower_y_bound: 975.2 upper_y_bound :1008.8
+--------------
+Template width: 39 Template height: 43
+Index: 646
+X: 1895 lower_x_bound: 1879.8 upper_x_bound :1910.2
+Y: 992 lower_y_bound: 975.2 upper_y_bound :1008.8
+--------------
+Template width: 39 Template height: 43
+Index: 647
+X: 1892 lower_x_bound: 1876.8 upper_x_bound :1907.2
+Y: 993 lower_y_bound: 976.2 upper_y_bound :1009.8
+--------------
+Template width: 39 Template height: 43
+Index: 648
+X: 1893 lower_x_bound: 1877.8 upper_x_bound :1908.2
+Y: 993 lower_y_bound: 976.2 upper_y_bound :1009.8
+--------------
+Template width: 39 Template height: 43
+Index: 649
+X: 1894 lower_x_bound: 1878.8 upper_x_bound :1909.2
+Y: 993 lower_y_bound: 976.2 upper_y_bound :1009.8
+--------------
+Template width: 39 Template height: 43
+Index: 650
+X: 1895 lower_x_bound: 1879.8 upper_x_bound :1910.2
+Y: 993 lower_y_bound: 976.2 upper_y_bound :1009.8
+--------------
+Template width: 39 Template height: 43
+Index: 651
+X: 1896 lower_x_bound: 1880.8 upper_x_bound :1911.2
+Y: 993 lower_y_bound: 976.2 upper_y_bound :1009.8
+--------------
+Template width: 39 Template height: 43
+Index: 652
+X: 1892 lower_x_bound: 1876.8 upper_x_bound :1907.2
+Y: 994 lower_y_bound: 977.2 upper_y_bound :1010.8
+--------------
+Template width: 39 Template height: 43
+Index: 653
+X: 1893 lower_x_bound: 1877.8 upper_x_bound :1908.2
+Y: 994 lower_y_bound: 977.2 upper_y_bound :1010.8
+--------------
+Template width: 39 Template height: 43
+Index: 654
+X: 1894 lower_x_bound: 1878.8 upper_x_bound :1909.2
+Y: 994 lower_y_bound: 977.2 upper_y_bound :1010.8
+--------------
+Template width: 39 Template height: 43
+Index: 655
+X: 1895 lower_x_bound: 1879.8 upper_x_bound :1910.2
+Y: 994 lower_y_bound: 977.2 upper_y_bound :1010.8
+--------------
+Template width: 39 Template height: 43
+Index: 656
+X: 1896 lower_x_bound: 1880.8 upper_x_bound :1911.2
+Y: 994 lower_y_bound: 977.2 upper_y_bound :1010.8
+--------------
+Template width: 39 Template height: 43
+Index: 657
+X: 1892 lower_x_bound: 1876.8 upper_x_bound :1907.2
+Y: 995 lower_y_bound: 978.2 upper_y_bound :1011.8
+--------------
+Template width: 39 Template height: 43
+Index: 658
+X: 1893 lower_x_bound: 1877.8 upper_x_bound :1908.2
+Y: 995 lower_y_bound: 978.2 upper_y_bound :1011.8
+--------------
+Template width: 39 Template height: 43
+Index: 659
+X: 1894 lower_x_bound: 1878.8 upper_x_bound :1909.2
+Y: 995 lower_y_bound: 978.2 upper_y_bound :1011.8
+--------------
+Template width: 39 Template height: 43
+Index: 660
+X: 1895 lower_x_bound: 1879.8 upper_x_bound :1910.2
+Y: 995 lower_y_bound: 978.2 upper_y_bound :1011.8
+--------------
+Template width: 39 Template height: 43
+Index: 661
+X: 1892 lower_x_bound: 1876.8 upper_x_bound :1907.2
+Y: 996 lower_y_bound: 979.2 upper_y_bound :1012.8
+--------------
+Template width: 39 Template height: 43
+Index: 662
+X: 1893 lower_x_bound: 1877.8 upper_x_bound :1908.2
+Y: 996 lower_y_bound: 979.2 upper_y_bound :1012.8
+--------------
+Template width: 39 Template height: 43
+Index: 663
+X: 1894 lower_x_bound: 1878.8 upper_x_bound :1909.2
+Y: 996 lower_y_bound: 979.2 upper_y_bound :1012.8
+--------------
+Template width: 39 Template height: 43
+Index: 664
+X: 1935 lower_x_bound: 1919.8 upper_x_bound :1950.2
+Y: 1020 lower_y_bound: 1003.2 upper_y_bound :1036.8
+--------------
+Template width: 39 Template height: 43
+Index: 665
+X: 1936 lower_x_bound: 1920.8 upper_x_bound :1951.2
+Y: 1020 lower_y_bound: 1003.2 upper_y_bound :1036.8
+--------------
+Template width: 39 Template height: 43
+Index: 666
+X: 1937 lower_x_bound: 1921.8 upper_x_bound :1952.2
+Y: 1020 lower_y_bound: 1003.2 upper_y_bound :1036.8
+--------------
+Template width: 39 Template height: 43
+Index: 667
+X: 1934 lower_x_bound: 1918.8 upper_x_bound :1949.2
+Y: 1021 lower_y_bound: 1004.2 upper_y_bound :1037.8
+--------------
+Template width: 39 Template height: 43
+Index: 668
+X: 1935 lower_x_bound: 1919.8 upper_x_bound :1950.2
+Y: 1021 lower_y_bound: 1004.2 upper_y_bound :1037.8
+--------------
+Template width: 39 Template height: 43
+Index: 669
+X: 1936 lower_x_bound: 1920.8 upper_x_bound :1951.2
+Y: 1021 lower_y_bound: 1004.2 upper_y_bound :1037.8
+--------------
+Template width: 39 Template height: 43
+Index: 670
+X: 1937 lower_x_bound: 1921.8 upper_x_bound :1952.2
+Y: 1021 lower_y_bound: 1004.2 upper_y_bound :1037.8
+--------------
+Template width: 39 Template height: 43
+Index: 671
+X: 1934 lower_x_bound: 1918.8 upper_x_bound :1949.2
+Y: 1022 lower_y_bound: 1005.2 upper_y_bound :1038.8
+--------------
+Template width: 39 Template height: 43
+Index: 672
+X: 1935 lower_x_bound: 1919.8 upper_x_bound :1950.2
+Y: 1022 lower_y_bound: 1005.2 upper_y_bound :1038.8
+--------------
+Template width: 39 Template height: 43
+Index: 673
+X: 1936 lower_x_bound: 1920.8 upper_x_bound :1951.2
+Y: 1022 lower_y_bound: 1005.2 upper_y_bound :1038.8
+--------------
+Template width: 39 Template height: 43
+Index: 674
+X: 1937 lower_x_bound: 1921.8 upper_x_bound :1952.2
+Y: 1022 lower_y_bound: 1005.2 upper_y_bound :1038.8
+--------------
+Template width: 39 Template height: 43
+Index: 675
+X: 1934 lower_x_bound: 1918.8 upper_x_bound :1949.2
+Y: 1023 lower_y_bound: 1006.2 upper_y_bound :1039.8
+--------------
+Template width: 39 Template height: 43
+Index: 676
+X: 1935 lower_x_bound: 1919.8 upper_x_bound :1950.2
+Y: 1023 lower_y_bound: 1006.2 upper_y_bound :1039.8
+--------------
+Template width: 39 Template height: 43
+Index: 677
+X: 1936 lower_x_bound: 1920.8 upper_x_bound :1951.2
+Y: 1023 lower_y_bound: 1006.2 upper_y_bound :1039.8
+--------------
+Template width: 39 Template height: 43
+Index: 678
+X: 1937 lower_x_bound: 1921.8 upper_x_bound :1952.2
+Y: 1023 lower_y_bound: 1006.2 upper_y_bound :1039.8
+--------------
+Template width: 39 Template height: 43
+Index: 679
+X: 1935 lower_x_bound: 1919.8 upper_x_bound :1950.2
+Y: 1024 lower_y_bound: 1007.2 upper_y_bound :1040.8
+--------------
+Template width: 39 Template height: 43
+Index: 680
+X: 1963 lower_x_bound: 1947.8 upper_x_bound :1978.2
+Y: 1044 lower_y_bound: 1027.2 upper_y_bound :1060.8
+--------------
+Template width: 39 Template height: 43
+Index: 681
+X: 1961 lower_x_bound: 1945.8 upper_x_bound :1976.2
+Y: 1045 lower_y_bound: 1028.2 upper_y_bound :1061.8
+--------------
+Template width: 39 Template height: 43
+Index: 682
+X: 1962 lower_x_bound: 1946.8 upper_x_bound :1977.2
+Y: 1045 lower_y_bound: 1028.2 upper_y_bound :1061.8
+--------------
+Template width: 39 Template height: 43
+Index: 683
+X: 1963 lower_x_bound: 1947.8 upper_x_bound :1978.2
+Y: 1045 lower_y_bound: 1028.2 upper_y_bound :1061.8
+--------------
+Template width: 39 Template height: 43
+Index: 684
+X: 1964 lower_x_bound: 1948.8 upper_x_bound :1979.2
+Y: 1045 lower_y_bound: 1028.2 upper_y_bound :1061.8
+--------------
+Template width: 39 Template height: 43
+Index: 685
+X: 1965 lower_x_bound: 1949.8 upper_x_bound :1980.2
+Y: 1045 lower_y_bound: 1028.2 upper_y_bound :1061.8
+--------------
+Template width: 39 Template height: 43
+Index: 686
+X: 1961 lower_x_bound: 1945.8 upper_x_bound :1976.2
+Y: 1046 lower_y_bound: 1029.2 upper_y_bound :1062.8
+--------------
+Template width: 39 Template height: 43
+Index: 687
+X: 1962 lower_x_bound: 1946.8 upper_x_bound :1977.2
+Y: 1046 lower_y_bound: 1029.2 upper_y_bound :1062.8
+--------------
+Template width: 39 Template height: 43
+Index: 688
+X: 1963 lower_x_bound: 1947.8 upper_x_bound :1978.2
+Y: 1046 lower_y_bound: 1029.2 upper_y_bound :1062.8
+--------------
+Template width: 39 Template height: 43
+Index: 689
+X: 1964 lower_x_bound: 1948.8 upper_x_bound :1979.2
+Y: 1046 lower_y_bound: 1029.2 upper_y_bound :1062.8
+--------------
+Template width: 39 Template height: 43
+Index: 690
+X: 1965 lower_x_bound: 1949.8 upper_x_bound :1980.2
+Y: 1046 lower_y_bound: 1029.2 upper_y_bound :1062.8
+--------------
+Template width: 39 Template height: 43
+Index: 691
+X: 1961 lower_x_bound: 1945.8 upper_x_bound :1976.2
+Y: 1047 lower_y_bound: 1030.2 upper_y_bound :1063.8
+--------------
+Template width: 39 Template height: 43
+Index: 692
+X: 1962 lower_x_bound: 1946.8 upper_x_bound :1977.2
+Y: 1047 lower_y_bound: 1030.2 upper_y_bound :1063.8
+--------------
+Template width: 39 Template height: 43
+Index: 693
+X: 1963 lower_x_bound: 1947.8 upper_x_bound :1978.2
+Y: 1047 lower_y_bound: 1030.2 upper_y_bound :1063.8
+--------------
+Template width: 39 Template height: 43
+Index: 694
+X: 1964 lower_x_bound: 1948.8 upper_x_bound :1979.2
+Y: 1047 lower_y_bound: 1030.2 upper_y_bound :1063.8
+--------------
+Template width: 39 Template height: 43
+Index: 695
+X: 1962 lower_x_bound: 1946.8 upper_x_bound :1977.2
+Y: 1048 lower_y_bound: 1031.2 upper_y_bound :1064.8
+--------------
+Template width: 39 Template height: 43
+Index: 696
+X: 1963 lower_x_bound: 1947.8 upper_x_bound :1978.2
+Y: 1048 lower_y_bound: 1031.2 upper_y_bound :1064.8
+--------------
+Template width: 39 Template height: 43
+Index: 697
+X: 2018 lower_x_bound: 2002.8 upper_x_bound :2033.2
+Y: 1090 lower_y_bound: 1073.2 upper_y_bound :1106.8
+--------------
+Template width: 39 Template height: 43
+Index: 698
+X: 2019 lower_x_bound: 2003.8 upper_x_bound :2034.2
+Y: 1090 lower_y_bound: 1073.2 upper_y_bound :1106.8
+--------------
+Template width: 39 Template height: 43
+Index: 699
+X: 2020 lower_x_bound: 2004.8 upper_x_bound :2035.2
+Y: 1090 lower_y_bound: 1073.2 upper_y_bound :1106.8
+--------------
+Template width: 39 Template height: 43
+Index: 700
+X: 2017 lower_x_bound: 2001.8 upper_x_bound :2032.2
+Y: 1091 lower_y_bound: 1074.2 upper_y_bound :1107.8
+--------------
+Template width: 39 Template height: 43
+Index: 701
+X: 2018 lower_x_bound: 2002.8 upper_x_bound :2033.2
+Y: 1091 lower_y_bound: 1074.2 upper_y_bound :1107.8
+--------------
+Template width: 39 Template height: 43
+Index: 702
+X: 2019 lower_x_bound: 2003.8 upper_x_bound :2034.2
+Y: 1091 lower_y_bound: 1074.2 upper_y_bound :1107.8
+--------------
+Template width: 39 Template height: 43
+Index: 703
+X: 2020 lower_x_bound: 2004.8 upper_x_bound :2035.2
+Y: 1091 lower_y_bound: 1074.2 upper_y_bound :1107.8
+--------------
+Template width: 39 Template height: 43
+Index: 704
+X: 2017 lower_x_bound: 2001.8 upper_x_bound :2032.2
+Y: 1092 lower_y_bound: 1075.2 upper_y_bound :1108.8
+--------------
+Template width: 39 Template height: 43
+Index: 705
+X: 2018 lower_x_bound: 2002.8 upper_x_bound :2033.2
+Y: 1092 lower_y_bound: 1075.2 upper_y_bound :1108.8
+--------------
+Template width: 39 Template height: 43
+Index: 706
+X: 2019 lower_x_bound: 2003.8 upper_x_bound :2034.2
+Y: 1092 lower_y_bound: 1075.2 upper_y_bound :1108.8
+--------------
+Template width: 39 Template height: 43
+Index: 707
+X: 2020 lower_x_bound: 2004.8 upper_x_bound :2035.2
+Y: 1092 lower_y_bound: 1075.2 upper_y_bound :1108.8
+--------------
+Template width: 39 Template height: 43
+Index: 708
+X: 2021 lower_x_bound: 2005.8 upper_x_bound :2036.2
+Y: 1092 lower_y_bound: 1075.2 upper_y_bound :1108.8
+--------------
+Template width: 39 Template height: 43
+Index: 709
+X: 2017 lower_x_bound: 2001.8 upper_x_bound :2032.2
+Y: 1093 lower_y_bound: 1076.2 upper_y_bound :1109.8
+--------------
+Template width: 39 Template height: 43
+Index: 710
+X: 2018 lower_x_bound: 2002.8 upper_x_bound :2033.2
+Y: 1093 lower_y_bound: 1076.2 upper_y_bound :1109.8
+--------------
+Template width: 39 Template height: 43
+Index: 711
+X: 2019 lower_x_bound: 2003.8 upper_x_bound :2034.2
+Y: 1093 lower_y_bound: 1076.2 upper_y_bound :1109.8
+--------------
+Template width: 39 Template height: 43
+Index: 712
+X: 2020 lower_x_bound: 2004.8 upper_x_bound :2035.2
+Y: 1093 lower_y_bound: 1076.2 upper_y_bound :1109.8
+--------------
+Template width: 39 Template height: 43
+Index: 713
+X: 2021 lower_x_bound: 2005.8 upper_x_bound :2036.2
+Y: 1093 lower_y_bound: 1076.2 upper_y_bound :1109.8
+--------------
+Template width: 39 Template height: 43
+Index: 714
+X: 2017 lower_x_bound: 2001.8 upper_x_bound :2032.2
+Y: 1094 lower_y_bound: 1077.2 upper_y_bound :1110.8
+--------------
+Template width: 39 Template height: 43
+Index: 715
+X: 2018 lower_x_bound: 2002.8 upper_x_bound :2033.2
+Y: 1094 lower_y_bound: 1077.2 upper_y_bound :1110.8
+--------------
+Template width: 39 Template height: 43
+Index: 716
+X: 2019 lower_x_bound: 2003.8 upper_x_bound :2034.2
+Y: 1094 lower_y_bound: 1077.2 upper_y_bound :1110.8
+--------------
+Template width: 39 Template height: 43
+Index: 717
+X: 2020 lower_x_bound: 2004.8 upper_x_bound :2035.2
+Y: 1094 lower_y_bound: 1077.2 upper_y_bound :1110.8
+--------------
+Template width: 39 Template height: 43
+Index: 718
+X: 2055 lower_x_bound: 2039.8 upper_x_bound :2070.2
+Y: 1110 lower_y_bound: 1093.2 upper_y_bound :1126.8
+--------------
+Template width: 39 Template height: 43
+Index: 719
+X: 2056 lower_x_bound: 2040.8 upper_x_bound :2071.2
+Y: 1110 lower_y_bound: 1093.2 upper_y_bound :1126.8
+--------------
+Template width: 39 Template height: 43
+Index: 720
+X: 2054 lower_x_bound: 2038.8 upper_x_bound :2069.2
+Y: 1111 lower_y_bound: 1094.2 upper_y_bound :1127.8
+--------------
+Template width: 39 Template height: 43
+Index: 721
+X: 2055 lower_x_bound: 2039.8 upper_x_bound :2070.2
+Y: 1111 lower_y_bound: 1094.2 upper_y_bound :1127.8
+--------------
+Template width: 39 Template height: 43
+Index: 722
+X: 2056 lower_x_bound: 2040.8 upper_x_bound :2071.2
+Y: 1111 lower_y_bound: 1094.2 upper_y_bound :1127.8
+--------------
+Template width: 39 Template height: 43
+Index: 723
+X: 2057 lower_x_bound: 2041.8 upper_x_bound :2072.2
+Y: 1111 lower_y_bound: 1094.2 upper_y_bound :1127.8
+--------------
+Template width: 39 Template height: 43
+Index: 724
+X: 2053 lower_x_bound: 2037.8 upper_x_bound :2068.2
+Y: 1112 lower_y_bound: 1095.2 upper_y_bound :1128.8
+--------------
+Template width: 39 Template height: 43
+Index: 725
+X: 2054 lower_x_bound: 2038.8 upper_x_bound :2069.2
+Y: 1112 lower_y_bound: 1095.2 upper_y_bound :1128.8
+--------------
+Template width: 39 Template height: 43
+Index: 726
+X: 2055 lower_x_bound: 2039.8 upper_x_bound :2070.2
+Y: 1112 lower_y_bound: 1095.2 upper_y_bound :1128.8
+--------------
+Template width: 39 Template height: 43
+Index: 727
+X: 2056 lower_x_bound: 2040.8 upper_x_bound :2071.2
+Y: 1112 lower_y_bound: 1095.2 upper_y_bound :1128.8
+--------------
+Template width: 39 Template height: 43
+Index: 728
+X: 2057 lower_x_bound: 2041.8 upper_x_bound :2072.2
+Y: 1112 lower_y_bound: 1095.2 upper_y_bound :1128.8
+--------------
+Template width: 39 Template height: 43
+Index: 729
+X: 2054 lower_x_bound: 2038.8 upper_x_bound :2069.2
+Y: 1113 lower_y_bound: 1096.2 upper_y_bound :1129.8
+--------------
+Template width: 39 Template height: 43
+Index: 730
+X: 2055 lower_x_bound: 2039.8 upper_x_bound :2070.2
+Y: 1113 lower_y_bound: 1096.2 upper_y_bound :1129.8
+--------------
+Template width: 39 Template height: 43
+Index: 731
+X: 2056 lower_x_bound: 2040.8 upper_x_bound :2071.2
+Y: 1113 lower_y_bound: 1096.2 upper_y_bound :1129.8
+--------------
+Template width: 39 Template height: 43
+Index: 732
+X: 2080 lower_x_bound: 2064.8 upper_x_bound :2095.2
+Y: 1139 lower_y_bound: 1122.2 upper_y_bound :1155.8
+--------------
+Template width: 39 Template height: 43
+Index: 733
+X: 2081 lower_x_bound: 2065.8 upper_x_bound :2096.2
+Y: 1139 lower_y_bound: 1122.2 upper_y_bound :1155.8
+--------------
+Template width: 39 Template height: 43
+Index: 734
+X: 2080 lower_x_bound: 2064.8 upper_x_bound :2095.2
+Y: 1140 lower_y_bound: 1123.2 upper_y_bound :1156.8
+--------------
+Template width: 39 Template height: 43
+Index: 735
+X: 2081 lower_x_bound: 2065.8 upper_x_bound :2096.2
+Y: 1140 lower_y_bound: 1123.2 upper_y_bound :1156.8
+--------------
+Template width: 39 Template height: 43
+Index: 736
+X: 2080 lower_x_bound: 2064.8 upper_x_bound :2095.2
+Y: 1141 lower_y_bound: 1124.2 upper_y_bound :1157.8
+--------------
+Template width: 39 Template height: 43
+Index: 737
+X: 2081 lower_x_bound: 2065.8 upper_x_bound :2096.2
+Y: 1141 lower_y_bound: 1124.2 upper_y_bound :1157.8
+--------------
+Template width: 39 Template height: 43
+Index: 738
+X: 2081 lower_x_bound: 2065.8 upper_x_bound :2096.2
+Y: 1142 lower_y_bound: 1125.2 upper_y_bound :1158.8
+--------------
+Template width: 39 Template height: 43
+Index: 739
+X: 724 lower_x_bound: 708.8 upper_x_bound :739.2
+Y: 1201 lower_y_bound: 1184.2 upper_y_bound :1217.8
+--------------
+Template width: 39 Template height: 43
+Index: 740
+X: 725 lower_x_bound: 709.8 upper_x_bound :740.2
+Y: 1201 lower_y_bound: 1184.2 upper_y_bound :1217.8
+--------------
+Template width: 39 Template height: 43
+Index: 741
+X: 723 lower_x_bound: 707.8 upper_x_bound :738.2
+Y: 1202 lower_y_bound: 1185.2 upper_y_bound :1218.8
+--------------
+Template width: 39 Template height: 43
+Index: 742
+X: 724 lower_x_bound: 708.8 upper_x_bound :739.2
+Y: 1202 lower_y_bound: 1185.2 upper_y_bound :1218.8
+--------------
+Template width: 39 Template height: 43
+Index: 743
+X: 725 lower_x_bound: 709.8 upper_x_bound :740.2
+Y: 1202 lower_y_bound: 1185.2 upper_y_bound :1218.8
+--------------
+Template width: 39 Template height: 43
+Index: 744
+X: 726 lower_x_bound: 710.8 upper_x_bound :741.2
+Y: 1202 lower_y_bound: 1185.2 upper_y_bound :1218.8
+--------------
+Template width: 39 Template height: 43
+Index: 745
+X: 723 lower_x_bound: 707.8 upper_x_bound :738.2
+Y: 1203 lower_y_bound: 1186.2 upper_y_bound :1219.8
+--------------
+Template width: 39 Template height: 43
+Index: 746
+X: 724 lower_x_bound: 708.8 upper_x_bound :739.2
+Y: 1203 lower_y_bound: 1186.2 upper_y_bound :1219.8
+--------------
+Template width: 39 Template height: 43
+Index: 747
+X: 725 lower_x_bound: 709.8 upper_x_bound :740.2
+Y: 1203 lower_y_bound: 1186.2 upper_y_bound :1219.8
+--------------
+Template width: 39 Template height: 43
+Index: 748
+X: 726 lower_x_bound: 710.8 upper_x_bound :741.2
+Y: 1203 lower_y_bound: 1186.2 upper_y_bound :1219.8
+--------------
+Template width: 39 Template height: 43
+Index: 749
+X: 723 lower_x_bound: 707.8 upper_x_bound :738.2
+Y: 1204 lower_y_bound: 1187.2 upper_y_bound :1220.8
+--------------
+Template width: 39 Template height: 43
+Index: 750
+X: 724 lower_x_bound: 708.8 upper_x_bound :739.2
+Y: 1204 lower_y_bound: 1187.2 upper_y_bound :1220.8
+--------------
+Template width: 39 Template height: 43
+Index: 751
+X: 725 lower_x_bound: 709.8 upper_x_bound :740.2
+Y: 1204 lower_y_bound: 1187.2 upper_y_bound :1220.8
+--------------
+Template width: 39 Template height: 43
+Index: 752
+X: 726 lower_x_bound: 710.8 upper_x_bound :741.2
+Y: 1204 lower_y_bound: 1187.2 upper_y_bound :1220.8
+--------------
+Template width: 39 Template height: 43
+Index: 753
+X: 1242 lower_x_bound: 1226.8 upper_x_bound :1257.2
+Y: 1230 lower_y_bound: 1213.2 upper_y_bound :1246.8
+--------------
+Template width: 39 Template height: 43
+Index: 754
+X: 1243 lower_x_bound: 1227.8 upper_x_bound :1258.2
+Y: 1230 lower_y_bound: 1213.2 upper_y_bound :1246.8
+--------------
+Template width: 39 Template height: 43
+Index: 755
+X: 1241 lower_x_bound: 1225.8 upper_x_bound :1256.2
+Y: 1231 lower_y_bound: 1214.2 upper_y_bound :1247.8
+--------------
+Template width: 39 Template height: 43
+Index: 756
+X: 1242 lower_x_bound: 1226.8 upper_x_bound :1257.2
+Y: 1231 lower_y_bound: 1214.2 upper_y_bound :1247.8
+--------------
+Template width: 39 Template height: 43
+Index: 757
+X: 1243 lower_x_bound: 1227.8 upper_x_bound :1258.2
+Y: 1231 lower_y_bound: 1214.2 upper_y_bound :1247.8
+--------------
+Template width: 39 Template height: 43
+Index: 758
+X: 1240 lower_x_bound: 1224.8 upper_x_bound :1255.2
+Y: 1232 lower_y_bound: 1215.2 upper_y_bound :1248.8
+--------------
+Template width: 39 Template height: 43
+Index: 759
+X: 1241 lower_x_bound: 1225.8 upper_x_bound :1256.2
+Y: 1232 lower_y_bound: 1215.2 upper_y_bound :1248.8
+--------------
+Template width: 39 Template height: 43
+Index: 760
+X: 1242 lower_x_bound: 1226.8 upper_x_bound :1257.2
+Y: 1232 lower_y_bound: 1215.2 upper_y_bound :1248.8
+--------------
+Template width: 39 Template height: 43
+Index: 761
+X: 1243 lower_x_bound: 1227.8 upper_x_bound :1258.2
+Y: 1232 lower_y_bound: 1215.2 upper_y_bound :1248.8
+--------------
+Template width: 39 Template height: 43
+Index: 762
+X: 1241 lower_x_bound: 1225.8 upper_x_bound :1256.2
+Y: 1233 lower_y_bound: 1216.2 upper_y_bound :1249.8
+--------------
+Template width: 39 Template height: 43
+Index: 763
+X: 1242 lower_x_bound: 1226.8 upper_x_bound :1257.2
+Y: 1233 lower_y_bound: 1216.2 upper_y_bound :1249.8
+--------------
