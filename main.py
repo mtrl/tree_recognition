@@ -23,7 +23,7 @@ for map in maps:
 	threshold = 0.35
 	matches = np.where( res >= threshold)
 	matches = zip(*matches[::-1])
-	matches = trees.remove_overlapping_matches(w, h, matches, 0.2)
+	matches = trees.remove_overlapping_matches(w, h, matches, 0.7)
 	
 	# remove items from the tuple that are in the same location as existing ones. Keep the one with the higher threshold
 	
@@ -37,11 +37,12 @@ for map in maps:
 		cv2.rectangle(img_rgb, (x_trunk_point, y_trunk_point) , (x_trunk_point + 1, y_trunk_point + 1), (255,0,0), 1)
 		f.write("X: " + str(pt[0]) + " Y: " + str(pt[1]) + "\r\n")
 		
-print tree_count
+print str(tree_count) + " trees found"
+
 cv2.imwrite('found_' + map,img_rgb)
 print "Done " + map
 	
 f.close()
 
-#plt.imshow(img_rgb)
-#plt.show()
+plt.imshow(img_rgb)
+plt.show()
