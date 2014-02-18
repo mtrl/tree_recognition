@@ -1,7 +1,5 @@
 import trees
 	
-maps = ['crop.jpg']
-
 map_image = raw_input("Enter path to map image (Relative to images/ dir): ")
 template_image = raw_input("Enter path to template image (Relative to images/ dir): ")
 threshold = float(raw_input("Enter matching threshold value (e.g. 0.4): "))
