@@ -3,44 +3,43 @@ from collections import OrderedDict
 import cv2
 import os
 
-def match_trees(maps, template_file, match_threshold, overlap_threshold):
+def match_trees(map, template_file, match_threshold, overlap_threshold):
 	if not os.path.exists('output'):
 		os.makedirs('output')
 		
 	f = open('output/coords.txt', 'w+')
 	methods = ['cv2.TM_CCOEFF_NORMED']
 	
-	for map in maps:
-		f.write("----------------\r\nMap: " + map + "\r\n----------------\r\n");
+	f.write("----------------\r\nMap: " + map + "\r\n----------------\r\n");
+
+	img_rgb = cv2.imread('images/' + map)
+	img_gray = cv2.cvtColor(img_rgb, cv2.COLOR_BGR2GRAY)
+	template = cv2.imread('images/' + template_file,0)
+	w, h = template.shape[::-1]
+
+	res = cv2.matchTemplate(img_gray,template,cv2.TM_CCOEFF_NORMED)
+
+	matches = np.where( res >= match_threshold)
+	matches = zip(*matches[::-1])
+	matches = remove_overlapping_matches(w, h, matches, overlap_threshold)
 	
-		img_rgb = cv2.imread('images/' + map)
-		img_gray = cv2.cvtColor(img_rgb, cv2.COLOR_BGR2GRAY)
-		template = cv2.imread(template_file,0)
-		w, h = template.shape[::-1]
+	# remove items from the tuple that are in the same location as existing ones. Keep the one with the higher threshold
 	
-		res = cv2.matchTemplate(img_gray,template,cv2.TM_CCOEFF_NORMED)
-	
-		matches = np.where( res >= match_threshold)
-		matches = zip(*matches[::-1])
-		matches = remove_overlapping_matches(w, h, matches, overlap_threshold)
-		
-		# remove items from the tuple that are in the same location as existing ones. Keep the one with the higher threshold
-		
-		tree_count = 0
-		for pt in matches:
-			tree_count += 1
-			cv2.rectangle(img_rgb, pt, (pt[0] + w, pt[1] + h), (255,0,0), 1)
-			# find the trunk
-			x_trunk_point = (pt[0] + w/2)
-			y_trunk_point = (pt[1] + h - 5)
-			cv2.rectangle(img_rgb, (x_trunk_point, y_trunk_point) , (x_trunk_point + 1, y_trunk_point + 1), (255,0,0), 1)
-			f.write("X: " + str(pt[0]) + " Y: " + str(pt[1]) + "\r\n")
+	tree_count = 0
+	for pt in matches:
+		tree_count += 1
+		cv2.rectangle(img_rgb, pt, (pt[0] + w, pt[1] + h), (255,0,0), 1)
+		# find the trunk
+		x_trunk_point = (pt[0] + w/2)
+		y_trunk_point = (pt[1] + h - 5)
+		cv2.rectangle(img_rgb, (x_trunk_point, y_trunk_point) , (x_trunk_point + 1, y_trunk_point + 1), (255,0,0), 1)
+		f.write("X: " + str(pt[0]) + " Y: " + str(pt[1]) + "\r\n")
 		
 	cv2.imwrite('output/found_' + map,img_rgb)
 	
 	print "Done!"	
 	print str(tree_count) + " trees found"
-	print "Written image file to found_" + map
+	print "Written image file to output/found_" + map
 		
 	f.close()
 
