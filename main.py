@@ -1,5 +1,5 @@
 import trees
 	
-maps = ['40216051.jpg']
+maps = ['crop.jpg']
 
 trees.match_trees(maps, 'images/tree.jpg', 0.4, 0.7)
