@@ -7,7 +7,7 @@ def match_trees(map, template_file, match_threshold, overlap_threshold):
 	if not os.path.exists('output'):
 		os.makedirs('output')
 		
-	f = open('output/coords.txt', 'w+')
+	f = open('output/' + os.path.splitext(template_file)[0] + '_coords.txt', 'w+')
 	methods = ['cv2.TM_CCOEFF_NORMED']
 	
 	f.write("----------------\r\nMap: " + map + "\r\n----------------\r\n");
@@ -35,10 +35,9 @@ def match_trees(map, template_file, match_threshold, overlap_threshold):
 		cv2.rectangle(img_rgb, (x_trunk_point, y_trunk_point) , (x_trunk_point + 1, y_trunk_point + 1), (255,0,0), 1)
 		f.write("X: " + str(pt[0]) + " Y: " + str(pt[1]) + "\r\n")
 		
-	found_image_file = os.path.splitext(template_file)[0] + "_" + map
+	found_image_file = 'output/' + os.path.splitext(template_file)[0] + "_" + map
 	cv2.imwrite(found_image_file, img_rgb)
-	
-	print "Done!"	
+	print "----"	
 	print str(tree_count) + " trees found"
 	print "Written image file to: " + found_image_file
 		
