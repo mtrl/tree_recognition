@@ -35,11 +35,12 @@ def match_trees(map, template_file, match_threshold, overlap_threshold):
 		cv2.rectangle(img_rgb, (x_trunk_point, y_trunk_point) , (x_trunk_point + 1, y_trunk_point + 1), (255,0,0), 1)
 		f.write("X: " + str(pt[0]) + " Y: " + str(pt[1]) + "\r\n")
 		
-	cv2.imwrite('output/found_' + map,img_rgb)
+	found_image_file = os.path.splitext(template_file)[0] + "_" + map
+	cv2.imwrite(found_image_file, img_rgb)
 	
 	print "Done!"	
 	print str(tree_count) + " trees found"
-	print "Written image file to output/found_" + map
+	print "Written image file to: " + found_image_file
 		
 	f.close()
 
