@@ -1,9 +1,13 @@
 import numpy as np
 from collections import OrderedDict
 import cv2
+import os
 
 def match_trees(maps, template_file, match_threshold, overlap_threshold):
-	f = open('coords.txt', 'w+')
+	if not os.path.exists('output'):
+		os.makedirs('output')
+		
+	f = open('output/coords.txt', 'w+')
 	methods = ['cv2.TM_CCOEFF_NORMED']
 	
 	for map in maps:
@@ -32,7 +36,7 @@ def match_trees(maps, template_file, match_threshold, overlap_threshold):
 			cv2.rectangle(img_rgb, (x_trunk_point, y_trunk_point) , (x_trunk_point + 1, y_trunk_point + 1), (255,0,0), 1)
 			f.write("X: " + str(pt[0]) + " Y: " + str(pt[1]) + "\r\n")
 		
-	cv2.imwrite('found_' + map,img_rgb)
+	cv2.imwrite('output/found_' + map,img_rgb)
 	
 	print "Done!"	
 	print str(tree_count) + " trees found"
